@@ -1,0 +1,1001 @@
+UUID,Name,Description,provider,available,MeasurementUnits
+fccc13f1-f337-480b-9305-a5bb56bcaa11,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+6a227cf5-34e4-4f48-a77c-63576929aecd,Nokia Mobile,smart phone,Nokia,true,PC
+d8e64484-5ef8-4d84-bd54-0371d3092d3b,Sony  Mobile,smart phone,Sony,true,PC
+cdf70db2-7a14-4fbc-bb5d-c0ba024d3ec6,LG Mobile,smart phone,LG,true,PC
+227278c5-3731-4329-a070-9d5ff1e6f18e,Motorola Mobile,smart phone,Motorola,true,PC
+b764d0f4-a54e-4737-95df-aa5b3b3904b3,oppo Mobile,smart phone,oppo,true,PC
+1970589d-6e57-4d9f-add5-aa62895fcfd7,Apple Mobile,smart phone,Apple,true,PC
+f4547ba0-31d6-4979-931c-9a2ae2656ab5,OnePlus Mobile,smart phone,OnePlus,true,PC
+99a3098c-3f0f-455c-bcbd-b038a0a28ea0,Huawei Mobile,smart phone,Huawei,true,PC
+49207e59-a896-4c1b-9ce1-9a03cae06073,HTC Mobile,smart phone,HTC,true,PC
+c7320562-8153-4985-8947-1b6f8ec1e967,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+7ec127d8-0356-4ce9-ab98-aa80761bc9d4,Nokia Mobile,smart phone,Nokia,true,PC
+c11a6549-182e-4e13-aba8-3818ad9c6b25,Sony  Mobile,smart phone,Sony,true,PC
+b427c5fc-e17a-4ab4-8809-47e9adaee568,LG Mobile,smart phone,LG,true,PC
+967de3a2-5203-42ca-a12e-a5b4abab5a88,Motorola Mobile,smart phone,Motorola,true,PC
+90b749b9-71b2-4152-991b-6579041dc546,oppo Mobile,smart phone,oppo,true,PC
+7e503ca0-4a22-47a8-b496-63665eacc326,Apple Mobile,smart phone,Apple,true,PC
+4969e1cf-b478-40ab-bbe4-94613254354e,OnePlus Mobile,smart phone,OnePlus,true,PC
+8b430168-6372-41d0-ac36-c9ba5a5ee548,Huawei Mobile,smart phone,Huawei,true,PC
+5b41074d-7662-4a50-824d-5cb1ec236448,HTC Mobile,smart phone,HTC,true,PC
+13a93996-33df-4d56-9a17-fa193cd3b200,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+440ddb5d-4649-4960-a9c7-b2d7d18e6205,Nokia Mobile,smart phone,Nokia,true,PC
+39f8a349-f359-446f-a0fd-60d72f810ce0,Sony  Mobile,smart phone,Sony,true,PC
+88d458f4-6443-4f03-96f3-0bc23d481025,LG Mobile,smart phone,LG,true,PC
+2dcaf00d-0fec-445d-a2f9-c66b6c59da0a,Motorola Mobile,smart phone,Motorola,true,PC
+e27fbe04-3772-4973-9fb8-1389a2a7be9d,oppo Mobile,smart phone,oppo,true,PC
+725d63bb-a2b0-4123-98f4-1a4543f92305,Apple Mobile,smart phone,Apple,true,PC
+3288c777-d438-40d8-86f7-527ed328d18b,OnePlus Mobile,smart phone,OnePlus,true,PC
+a185bc97-fb9b-4f3d-9042-85690cbfaac3,Huawei Mobile,smart phone,Huawei,true,PC
+d6515416-42b0-4a3f-8e90-aa2f431529ea,HTC Mobile,smart phone,HTC,true,PC
+556992e8-3435-4045-9b08-7ab92893f2e2,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+09b33be6-4bc8-4d60-b4fc-5a09b3795aa8,Nokia Mobile,smart phone,Nokia,true,PC
+c7a5f31c-bc0e-4ca6-8f3e-d60ebd44fa11,Sony  Mobile,smart phone,Sony,true,PC
+f4c7fc35-74fd-4efb-9472-970fadc8ac7e,LG Mobile,smart phone,LG,true,PC
+ed386106-4b44-41aa-9ce8-96d53b8946d7,Motorola Mobile,smart phone,Motorola,true,PC
+3e9eae43-243b-4b5c-9547-8de84652728d,oppo Mobile,smart phone,oppo,true,PC
+5ac4037d-be4a-41df-8f94-41907dfbe9af,Apple Mobile,smart phone,Apple,true,PC
+e9ffdd05-7e70-460e-9564-9618ff9ff75a,OnePlus Mobile,smart phone,OnePlus,true,PC
+9841133b-1f30-4b87-88bc-e381a33fc1a9,Huawei Mobile,smart phone,Huawei,true,PC
+c160df04-be17-4dec-bded-3724dd682616,HTC Mobile,smart phone,HTC,true,PC
+e8dc5b61-e56e-42d2-bc16-6febc1255915,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+c922977a-0f79-4eac-a594-fcd407f0b40b,Nokia Mobile,smart phone,Nokia,true,PC
+9b7b4b1b-59e0-4b16-9df1-9b9bcca63fcb,Sony  Mobile,smart phone,Sony,true,PC
+5a8f9034-491b-4b6c-8e20-81f6797d87e5,LG Mobile,smart phone,LG,true,PC
+9269ab75-4674-4a73-bd25-0162e3b5249d,Motorola Mobile,smart phone,Motorola,true,PC
+ee16698c-8286-42cf-8114-3c27db44998e,oppo Mobile,smart phone,oppo,true,PC
+c68f768b-eb08-4997-a03c-668234628f6c,Apple Mobile,smart phone,Apple,true,PC
+10439c66-b498-46c9-a6ec-d3be3f32e91b,OnePlus Mobile,smart phone,OnePlus,true,PC
+1fc7a553-8769-44f4-9105-b0f09d9ec278,Huawei Mobile,smart phone,Huawei,true,PC
+f2cb57ed-cd56-486c-aaa4-3b035c7edeb9,HTC Mobile,smart phone,HTC,true,PC
+bea64acf-5064-4abd-b6a5-9210d09734b6,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+c4c4734d-be8a-414c-a2a0-26c91f585df8,Nokia Mobile,smart phone,Nokia,true,PC
+bba1fbe4-4b3e-4206-8d7b-532f92681fc1,Sony  Mobile,smart phone,Sony,true,PC
+b27a01b6-ea06-4930-995e-49c1f917ea3c,LG Mobile,smart phone,LG,true,PC
+f623c7d0-ac48-48c0-9d4a-81aefcf32778,Motorola Mobile,smart phone,Motorola,true,PC
+80abc30c-850c-40d6-ac27-91c05b8d5eff,oppo Mobile,smart phone,oppo,true,PC
+674d14ce-84b5-4dad-8a12-4586fb6cdc2f,Apple Mobile,smart phone,Apple,true,PC
+8f537836-379a-4618-83eb-14995d298104,OnePlus Mobile,smart phone,OnePlus,true,PC
+fd55b30c-76b9-450b-a574-57988c9271bd,Huawei Mobile,smart phone,Huawei,true,PC
+332504e1-ea17-411f-ba89-a53714825eee,HTC Mobile,smart phone,HTC,true,PC
+7ffadef2-014c-4f42-bb9d-09d9cf51306f,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+8db55c01-a5c2-47a0-b48f-3db29f31bcf6,Nokia Mobile,smart phone,Nokia,true,PC
+8d270cd4-ed6f-470f-be97-5e129868c31c,Sony  Mobile,smart phone,Sony,true,PC
+5781b843-f36c-4604-bce1-13158d474587,LG Mobile,smart phone,LG,true,PC
+12c79889-83fc-4883-9f4c-9619b3aaf4e1,Motorola Mobile,smart phone,Motorola,true,PC
+e522152a-9fe9-4d91-9a4b-8ebb2479b0e0,oppo Mobile,smart phone,oppo,true,PC
+5ed57991-3b75-4c16-9efe-a31c6aa1b324,Apple Mobile,smart phone,Apple,true,PC
+66097e68-2b67-49ab-9635-d2f827940605,OnePlus Mobile,smart phone,OnePlus,true,PC
+66abec25-522d-4f0c-adea-b21199d78ca8,Huawei Mobile,smart phone,Huawei,true,PC
+a41a8df8-b2d3-4e6c-b1d7-ada7cc006dff,HTC Mobile,smart phone,HTC,true,PC
+95b8bbc1-d564-4c91-9d28-801c99d6ea00,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+d6a00ead-fa25-4aef-bc35-cebbd5f989ab,Nokia Mobile,smart phone,Nokia,true,PC
+0779bbd6-211e-4895-8284-5a7ca3658b0f,Sony  Mobile,smart phone,Sony,true,PC
+a17ad9e3-f626-4e1f-bf44-1b05ac77d9f7,LG Mobile,smart phone,LG,true,PC
+dab22e61-d2ef-40ad-8e4e-3c3db48b7b1a,Motorola Mobile,smart phone,Motorola,true,PC
+b0f819a7-ccfc-41d3-aad5-76df55cede2b,oppo Mobile,smart phone,oppo,true,PC
+235c105c-d997-4d6f-a04b-8f0b3b2bc19e,Apple Mobile,smart phone,Apple,true,PC
+f0321a0d-877a-40a6-b1d2-b028a1ec406f,OnePlus Mobile,smart phone,OnePlus,true,PC
+f1af4873-32e5-46e6-820a-0a7c7ba258b0,Huawei Mobile,smart phone,Huawei,true,PC
+def20db6-6b5a-43e2-979d-91d65ade68b3,HTC Mobile,smart phone,HTC,true,PC
+8e18b95d-fd3e-4f12-acb9-9c2645de6100,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+0015f626-5b5d-4c32-8b9d-95a3d17d82f7,Nokia Mobile,smart phone,Nokia,true,PC
+c5d1248d-4fa3-4b00-9513-8542297a721a,Sony  Mobile,smart phone,Sony,true,PC
+c1367e87-8a2d-44d4-a95f-88388aff4a22,LG Mobile,smart phone,LG,true,PC
+5deb32ba-befe-4d0b-a7e5-e1694b0bf1c3,Motorola Mobile,smart phone,Motorola,true,PC
+5e1ca019-507b-456a-b256-8b8828bf3a94,oppo Mobile,smart phone,oppo,true,PC
+44d71712-54ed-4cce-b423-e5f06ebab4c9,Apple Mobile,smart phone,Apple,true,PC
+a6c26a06-e2d1-426b-89b4-947c8fe35ebe,OnePlus Mobile,smart phone,OnePlus,true,PC
+c23732b7-0b20-4525-b804-77d7792175a9,Huawei Mobile,smart phone,Huawei,true,PC
+18505787-35b8-4a07-8eba-2c8987dad850,HTC Mobile,smart phone,HTC,true,PC
+2472be85-7283-498d-9764-502417cdf645,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+9e06dec4-1eae-4372-ac74-da4313aed7af,Nokia Mobile,smart phone,Nokia,true,PC
+4d96f21d-e9ba-4b3c-b492-b9bfd0d70101,Sony  Mobile,smart phone,Sony,true,PC
+1b4bbe75-1231-431a-9793-7ed570ac647c,LG Mobile,smart phone,LG,true,PC
+de5313c9-67e4-4d77-b458-5844eccc0114,Motorola Mobile,smart phone,Motorola,true,PC
+0e80fe0b-28c2-4252-a032-2c550772b799,oppo Mobile,smart phone,oppo,true,PC
+c0db7b77-f087-447f-bd27-436482b0a2ba,Apple Mobile,smart phone,Apple,true,PC
+830e329a-52ca-4980-ba86-06d71281512f,OnePlus Mobile,smart phone,OnePlus,true,PC
+781b2d11-f9d0-4e58-ba14-6c4c63a673a4,Huawei Mobile,smart phone,Huawei,true,PC
+e1e38818-d850-44ed-961a-f2c30f061228,HTC Mobile,smart phone,HTC,true,PC
+2a56ab0e-ce02-4aa8-84fe-52e5f0666165,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+f4047464-e816-413b-9869-d29888b24966,Nokia Mobile,smart phone,Nokia,true,PC
+5411d317-94d2-4e2c-9520-b411bae730db,Sony  Mobile,smart phone,Sony,true,PC
+af2291bb-ecb1-4cee-9220-9cf532085dd3,LG Mobile,smart phone,LG,true,PC
+ce1e2834-9806-4d7c-a4cc-2612049f6f43,Motorola Mobile,smart phone,Motorola,true,PC
+9bfab5d6-5657-48eb-8b17-3bf4ab1d2eb5,oppo Mobile,smart phone,oppo,true,PC
+3b9f55a6-14e3-4ade-8da5-bd0cca3499a0,Apple Mobile,smart phone,Apple,true,PC
+f90c1264-5287-402e-9217-f912b70272b3,OnePlus Mobile,smart phone,OnePlus,true,PC
+e2481a03-d114-4f1f-8d3e-bc34c04e89b8,Huawei Mobile,smart phone,Huawei,true,PC
+b562c215-3164-45b0-ab77-3a80fe4bd3fb,HTC Mobile,smart phone,HTC,true,PC
+8b1e0498-1494-40da-ad7f-691c23d14b06,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+3b0edcd4-7465-4502-87fd-988e8afda5ce,Nokia Mobile,smart phone,Nokia,true,PC
+88e48f75-01ed-44f7-82df-44c0deb8cf8c,Sony  Mobile,smart phone,Sony,true,PC
+675096f0-fcd6-405b-ab8a-fd5f1d0c6471,LG Mobile,smart phone,LG,true,PC
+7755924f-5610-47dc-b3f7-ddc3fb5f729f,Motorola Mobile,smart phone,Motorola,true,PC
+9982cacc-4cb0-48ba-92a1-0923e90207a0,oppo Mobile,smart phone,oppo,true,PC
+5dd053d5-75fa-440c-a31a-e5a01f913862,Apple Mobile,smart phone,Apple,true,PC
+0ebff46a-a3e1-408d-97ce-66ee0e3808b1,OnePlus Mobile,smart phone,OnePlus,true,PC
+8a3c0abe-3e03-4902-b123-e6c6ef3cc92f,Huawei Mobile,smart phone,Huawei,true,PC
+b853bf73-0a0e-4129-9345-c70e4e8b3584,HTC Mobile,smart phone,HTC,true,PC
+5f7e3c8c-da46-49bc-a7f4-ea793749233d,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+54c3108d-487d-43c4-8108-e504779a4168,Nokia Mobile,smart phone,Nokia,true,PC
+cd9cd30a-65e4-488d-a90b-bf14cab5d3f1,Sony  Mobile,smart phone,Sony,true,PC
+9b19efc6-4e06-486c-8a99-daaf69951780,LG Mobile,smart phone,LG,true,PC
+de4b45c8-ea4b-497b-a474-6812bb7c9a4f,Motorola Mobile,smart phone,Motorola,true,PC
+fcb5de32-55ac-4b2a-8017-2006576c941d,oppo Mobile,smart phone,oppo,true,PC
+549f5c02-713e-4149-892b-88cada2753f9,Apple Mobile,smart phone,Apple,true,PC
+460f71f5-0851-4dc2-8a62-8d8cd16e3551,OnePlus Mobile,smart phone,OnePlus,true,PC
+b8dcc7df-a589-43bd-96ea-af321980df61,Huawei Mobile,smart phone,Huawei,true,PC
+024f8cb4-4935-4355-b7a1-444314962349,HTC Mobile,smart phone,HTC,true,PC
+88703ab4-c0b9-4cc2-b93a-a085c94e901c,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+ed65df09-d86b-4aa2-a169-ac99742b8bc3,Nokia Mobile,smart phone,Nokia,true,PC
+f2d275c8-eee8-4b9b-865d-50203b31add4,Sony  Mobile,smart phone,Sony,true,PC
+5f3052d5-02cd-43cc-9362-f0e07731b38f,LG Mobile,smart phone,LG,true,PC
+b70b7b9d-fed8-48ea-a519-bf33d8d4bc64,Motorola Mobile,smart phone,Motorola,true,PC
+2a903abb-ea63-4d65-806d-37a190a25c02,oppo Mobile,smart phone,oppo,true,PC
+3dc1d0b2-49c0-487d-92ca-b073987ce0db,Apple Mobile,smart phone,Apple,true,PC
+828c937c-d5f6-455d-97e2-ec92237d66c6,OnePlus Mobile,smart phone,OnePlus,true,PC
+76b2d3bc-eb83-4ce4-a198-1557a10d0172,Huawei Mobile,smart phone,Huawei,true,PC
+4abedef6-e5f0-48f1-99b0-8daf62400f08,HTC Mobile,smart phone,HTC,true,PC
+0fcc53be-cc10-4ebb-8e77-19dc8417546a,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+56a5876a-5a03-44f0-8c9c-1a1115c4d7dd,Nokia Mobile,smart phone,Nokia,true,PC
+f2a873da-2a11-4679-8191-5b78bdda98d5,Sony  Mobile,smart phone,Sony,true,PC
+c659ef53-660b-45ca-a4bc-2f47e24967ac,LG Mobile,smart phone,LG,true,PC
+d218dc57-0cb2-4bed-9921-a8634a3d47d5,Motorola Mobile,smart phone,Motorola,true,PC
+d82c43e7-d5f1-4f81-b662-fd9f413fb914,oppo Mobile,smart phone,oppo,true,PC
+808bbb99-d9e7-40a1-ab16-70d42a4a5a28,Apple Mobile,smart phone,Apple,true,PC
+9f2d7313-4d86-4603-9cd0-c51c5f3da01e,OnePlus Mobile,smart phone,OnePlus,true,PC
+b04fd6f2-f71b-4ff5-9dd1-e2bfac5b47a0,Huawei Mobile,smart phone,Huawei,true,PC
+0cbd2935-d58e-47b3-90cc-cd8ed9d68e3b,HTC Mobile,smart phone,HTC,true,PC
+9387cc98-1edf-4fd2-986a-7d01c2ab2b67,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+994cd1a1-1192-4c45-9a14-775963e900e5,Nokia Mobile,smart phone,Nokia,true,PC
+88b5a278-3c98-41f8-a0c4-7644643cee9c,Sony  Mobile,smart phone,Sony,true,PC
+0778f6c8-19f7-448b-b3a5-7d91869e69ee,LG Mobile,smart phone,LG,true,PC
+ba04acce-8b57-435b-ad72-7eabf1da291c,Motorola Mobile,smart phone,Motorola,true,PC
+c2f622b1-de91-40b6-b24b-1bb466f7ffc0,oppo Mobile,smart phone,oppo,true,PC
+f090c77a-8c93-4fdd-8447-5ba53294b642,Apple Mobile,smart phone,Apple,true,PC
+c965e853-a16d-42df-8207-8426dcdf1dfe,OnePlus Mobile,smart phone,OnePlus,true,PC
+a28fb590-dde6-4a72-a083-27156c8d49f3,Huawei Mobile,smart phone,Huawei,true,PC
+331162eb-8915-4c3d-984c-63f66402c6bb,HTC Mobile,smart phone,HTC,true,PC
+4c7e08d2-7a02-40f7-9915-55c2d71541c4,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+b8bd5581-253e-4c6b-bee9-8190379b8e0e,Nokia Mobile,smart phone,Nokia,true,PC
+f2048d9f-60f6-48ac-8e40-93ef2d3bb1bc,Sony  Mobile,smart phone,Sony,true,PC
+c70ec6a6-c935-4cd1-8560-d40c00732512,LG Mobile,smart phone,LG,true,PC
+fbe6a3e9-0370-4b79-a857-2050ed2c5f9d,Motorola Mobile,smart phone,Motorola,true,PC
+3825ffde-7e3e-429e-bbce-5b7f92e93db7,oppo Mobile,smart phone,oppo,true,PC
+74e54adc-bcb0-4cd5-84cc-03f4619e3518,Apple Mobile,smart phone,Apple,true,PC
+ee28c829-8e7d-4d6e-afba-8498d920d933,OnePlus Mobile,smart phone,OnePlus,true,PC
+be10dc43-fe1d-4e45-9c40-78fa8f8fd6f9,Huawei Mobile,smart phone,Huawei,true,PC
+f5013ccf-2e33-47b2-a3b9-e25c8bfa9da4,HTC Mobile,smart phone,HTC,true,PC
+f1a9a169-ed65-4e62-ae67-cc7f5307f2f8,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+857ff72c-fc36-4302-872f-1b4eed8f7be4,Nokia Mobile,smart phone,Nokia,true,PC
+a634607d-d828-45f3-9471-34c5a399f68a,Sony  Mobile,smart phone,Sony,true,PC
+348219ad-1601-44b8-8825-3d05988f5bb0,LG Mobile,smart phone,LG,true,PC
+be08cbb8-cdaa-454c-a52e-c89c74fcdac3,Motorola Mobile,smart phone,Motorola,true,PC
+d2ab1542-b425-4596-8418-5df380478360,oppo Mobile,smart phone,oppo,true,PC
+c03b22b3-d931-4492-bb95-bd72d112cf96,Apple Mobile,smart phone,Apple,true,PC
+f325cada-1abc-4aa7-824f-0633efb4a957,OnePlus Mobile,smart phone,OnePlus,true,PC
+c93c1334-9ca7-4793-8ec7-bb78ce18c53f,Huawei Mobile,smart phone,Huawei,true,PC
+87592b6b-4d7c-4485-b55c-8ff9e2e0f59b,HTC Mobile,smart phone,HTC,true,PC
+161316d3-52b3-4b7d-868f-1c24615464f0,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+62d9c0b0-f336-4d6b-8f04-8a79192b06a9,Nokia Mobile,smart phone,Nokia,true,PC
+7222b3cf-1d84-4a22-bc9a-b441ec7f2c68,Sony  Mobile,smart phone,Sony,true,PC
+addf5918-33c2-40ca-8ff8-3a69c5b6f30a,LG Mobile,smart phone,LG,true,PC
+b59895b2-323d-471c-abb8-d4f71ed3b43f,Motorola Mobile,smart phone,Motorola,true,PC
+a8878794-5b22-430c-a50a-54a5c557fd7c,oppo Mobile,smart phone,oppo,true,PC
+6209dc71-55e2-4e3f-81dc-195b74a11b47,Apple Mobile,smart phone,Apple,true,PC
+aac5f810-b9b1-42c1-8c2d-24f7a1580bfa,OnePlus Mobile,smart phone,OnePlus,true,PC
+68e3a4c6-5be0-4cb6-8e64-7d7591eed001,Huawei Mobile,smart phone,Huawei,true,PC
+a7f4fda9-b190-4cba-a6bb-23f82d0fa731,HTC Mobile,smart phone,HTC,true,PC
+af213181-1fb3-4aab-b9c2-bb28dcde11ad,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+f00d4cfa-4be5-4eca-9cf6-f88b67ae5b48,Nokia Mobile,smart phone,Nokia,true,PC
+ede97c5b-621f-4683-b444-eaf2b4f1a4f3,Sony  Mobile,smart phone,Sony,true,PC
+0539b191-ebf8-49d6-9cf1-232665ea6e78,LG Mobile,smart phone,LG,true,PC
+244b31c1-5422-4032-a411-7371556d8cfa,Motorola Mobile,smart phone,Motorola,true,PC
+7a01f2c3-8892-4335-a1e5-89ae0014abeb,oppo Mobile,smart phone,oppo,true,PC
+fdd3ad7e-9617-4e2c-b629-dff573a708b8,Apple Mobile,smart phone,Apple,true,PC
+bfb01195-04ba-49e5-b837-66431603dee2,OnePlus Mobile,smart phone,OnePlus,true,PC
+2238969d-e2ce-461e-a593-578abcece049,Huawei Mobile,smart phone,Huawei,true,PC
+38ee07a3-d769-45f3-803c-06743854f1b6,HTC Mobile,smart phone,HTC,true,PC
+0c6b6b3e-4fa8-4e06-ade4-c5935349f592,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+3296b5f5-d120-4d31-a523-8906825d6396,Nokia Mobile,smart phone,Nokia,true,PC
+a07498e5-2472-4876-bec4-09148abd8a9b,Sony  Mobile,smart phone,Sony,true,PC
+e93f778e-7738-4bed-80df-d4932443410d,LG Mobile,smart phone,LG,true,PC
+8ce82b9f-9641-4816-90c7-b45968d63cdb,Motorola Mobile,smart phone,Motorola,true,PC
+04629ab2-618a-4893-8721-225e43c30da5,oppo Mobile,smart phone,oppo,true,PC
+e77c1f1a-d2ad-4a2b-ad71-cafa47cdefa0,Apple Mobile,smart phone,Apple,true,PC
+4326ab2f-2dde-42f3-844e-93b669882965,OnePlus Mobile,smart phone,OnePlus,true,PC
+87be4d3a-d093-41f1-9247-299d88d284e6,Huawei Mobile,smart phone,Huawei,true,PC
+bea18b7c-ca95-4f19-a555-520d24a0f87f,HTC Mobile,smart phone,HTC,true,PC
+43380964-ec37-46c7-bb2a-5b1e18cc0272,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+459a975e-c1b2-4e2d-ad67-e4d735628894,Nokia Mobile,smart phone,Nokia,true,PC
+e3bb34e4-d171-40dc-8327-a61b2912843e,Sony  Mobile,smart phone,Sony,true,PC
+2fde002d-afaf-4380-b014-0f842e1f6e03,LG Mobile,smart phone,LG,true,PC
+c2067f60-a2b8-40ad-b9db-70ae12599ed6,Motorola Mobile,smart phone,Motorola,true,PC
+ef30f3d8-4fc5-4b54-96c6-c68c13b3f04a,oppo Mobile,smart phone,oppo,true,PC
+ad51dd67-a489-42eb-a98c-c3dc3e4eb962,Apple Mobile,smart phone,Apple,true,PC
+ce30ef13-08a5-4b37-9506-56eaeaad17b5,OnePlus Mobile,smart phone,OnePlus,true,PC
+7d27333f-eb4c-441e-9ba9-d83b8cf0184a,Huawei Mobile,smart phone,Huawei,true,PC
+63f1e2b1-1e7e-4950-a2ab-dee9c5901ca3,HTC Mobile,smart phone,HTC,true,PC
+18f1ce7e-1727-461c-82c1-a9e3d6d178e9,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+8ebfb5f9-4e95-4702-9d96-75b3f9e305ce,Nokia Mobile,smart phone,Nokia,true,PC
+0c4dffdd-7349-497a-a5db-0b509f9bcf79,Sony  Mobile,smart phone,Sony,true,PC
+e8a3231a-2319-447f-8387-2a6afca04fec,LG Mobile,smart phone,LG,true,PC
+37c48777-4bb0-4617-bb2b-760032b1110e,Motorola Mobile,smart phone,Motorola,true,PC
+92cf678a-0f3f-46dc-8ebf-bb33b3d09853,oppo Mobile,smart phone,oppo,true,PC
+aa974bd9-f31b-479f-ade5-063e4bd50b50,Apple Mobile,smart phone,Apple,true,PC
+e9407373-95d8-4b3b-908c-2fd29b8d88ed,OnePlus Mobile,smart phone,OnePlus,true,PC
+a947a652-6132-4e3a-add8-100e6ade0995,Huawei Mobile,smart phone,Huawei,true,PC
+8107a54f-4ea7-414b-a5e7-3cc3f494f99c,HTC Mobile,smart phone,HTC,true,PC
+9e7af9a0-4e26-4ccb-bda6-855b9c4956db,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+d6847dd3-0210-411d-b122-ca9aef9f489e,Nokia Mobile,smart phone,Nokia,true,PC
+990d76a9-316a-4144-af84-09d683e99d99,Sony  Mobile,smart phone,Sony,true,PC
+a37d75af-f80a-4e89-beb9-1eb5b63a935a,LG Mobile,smart phone,LG,true,PC
+5480b4f6-1842-4ed4-8322-8f57c7e058c5,Motorola Mobile,smart phone,Motorola,true,PC
+20d7ed3b-5637-4478-9df8-c2151c6b1c2a,oppo Mobile,smart phone,oppo,true,PC
+5bb9dc97-90d4-4a87-ab21-1df6e5e7b054,Apple Mobile,smart phone,Apple,true,PC
+df82e45e-5f95-443a-8454-efa917cd8506,OnePlus Mobile,smart phone,OnePlus,true,PC
+1d809608-612c-4661-86ad-872d05268977,Huawei Mobile,smart phone,Huawei,true,PC
+662d1504-d437-4bc8-a6c8-a21e4c17bcaf,HTC Mobile,smart phone,HTC,true,PC
+b9f4c846-6e6a-48e7-aae2-21999bd97bb0,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+31d01925-3251-4342-8858-4f4377c1d7ed,Nokia Mobile,smart phone,Nokia,true,PC
+679f795f-5364-4810-a92d-3be33b9150bc,Sony  Mobile,smart phone,Sony,true,PC
+38cc0731-bb63-42f2-a6d1-0c43eabbd8fe,LG Mobile,smart phone,LG,true,PC
+8f24d4cf-a91d-4868-877e-3569bd58ae19,Motorola Mobile,smart phone,Motorola,true,PC
+0fc85a24-4c9d-4ae9-9c09-2a0ef1ee2b20,oppo Mobile,smart phone,oppo,true,PC
+074c8265-1079-4605-9009-bf1439d676c3,Apple Mobile,smart phone,Apple,true,PC
+3abc5bee-d695-425b-a20a-af500c504dab,OnePlus Mobile,smart phone,OnePlus,true,PC
+42362cde-bdee-4de0-994a-dc232b83e04e,Huawei Mobile,smart phone,Huawei,true,PC
+ee1a90ce-3c13-4aa4-ad3a-22cf5cb0be1f,HTC Mobile,smart phone,HTC,true,PC
+f6683c78-e3cd-4bbb-9eb8-4231d9cc5846,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+7f90068c-a884-41d2-b8a5-5e4105b50bcb,Nokia Mobile,smart phone,Nokia,true,PC
+427d2c96-9ca4-45d6-baab-9f2673fbd6f6,Sony  Mobile,smart phone,Sony,true,PC
+2dfeaf97-c78a-4abb-b737-3d6eef1c7a72,LG Mobile,smart phone,LG,true,PC
+8757ed08-2358-437f-b87e-72fa91f80d17,Motorola Mobile,smart phone,Motorola,true,PC
+9c4c46c6-e29f-4757-b934-6294e1d81d35,oppo Mobile,smart phone,oppo,true,PC
+3d7b216f-743d-412b-9151-8668ed6e908d,Apple Mobile,smart phone,Apple,true,PC
+e6d1542c-e2e0-4a92-b7cf-1b21499aab1f,OnePlus Mobile,smart phone,OnePlus,true,PC
+5be294ca-57a4-4b41-a2d7-30c19714ad67,Huawei Mobile,smart phone,Huawei,true,PC
+d370997b-e392-4adf-97e4-638eec8ab44f,HTC Mobile,smart phone,HTC,true,PC
+1ff84832-d595-4750-98af-be593c9dad06,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+998d38a1-910b-49df-ba58-f95a427936d6,Nokia Mobile,smart phone,Nokia,true,PC
+ce818406-1040-4b89-bb85-d8ac1e7a210f,Sony  Mobile,smart phone,Sony,true,PC
+bee7db52-b66f-462d-a7cf-c3e7f997af3c,LG Mobile,smart phone,LG,true,PC
+c8e48f36-5516-4d97-866b-578712cb3315,Motorola Mobile,smart phone,Motorola,true,PC
+4af36bee-4ec1-4158-bd1e-ed54dbf7fac0,oppo Mobile,smart phone,oppo,true,PC
+2b2dd672-4db0-4982-a9a9-ac9eb312d71f,Apple Mobile,smart phone,Apple,true,PC
+f0d85890-30d0-4e8d-b8ce-beb2127609e2,OnePlus Mobile,smart phone,OnePlus,true,PC
+9c4610bb-5b6e-4505-aa88-8bef1a0ae8a3,Huawei Mobile,smart phone,Huawei,true,PC
+2144e447-c3ab-4e1a-8813-aee164114f9b,HTC Mobile,smart phone,HTC,true,PC
+68d8fb0f-c792-4c27-a572-b195c8ae80f6,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+0df7c752-fd93-467a-836f-d2a2923f15e5,Nokia Mobile,smart phone,Nokia,true,PC
+e7bfb443-6bed-4fcb-8320-6b67cf44c87c,Sony  Mobile,smart phone,Sony,true,PC
+b76aad0f-ff19-4ce0-b007-e45f825e7049,LG Mobile,smart phone,LG,true,PC
+ad749bc4-a8a2-423d-9754-5b0def6b63bd,Motorola Mobile,smart phone,Motorola,true,PC
+382dba8a-a5a7-4fe1-96e7-a63c326b9750,oppo Mobile,smart phone,oppo,true,PC
+bc8b8289-5e1d-4107-a530-a6f3137d2a22,Apple Mobile,smart phone,Apple,true,PC
+e881615e-2d4b-4fff-8906-6b37545ba895,OnePlus Mobile,smart phone,OnePlus,true,PC
+b8422203-9565-4bbb-83ad-af8599741a20,Huawei Mobile,smart phone,Huawei,true,PC
+9f017f44-9ec7-45cc-8a71-e663c0180342,HTC Mobile,smart phone,HTC,true,PC
+215f2ca2-fc94-494c-b4a5-76201eea98c8,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+396eced4-4496-46c8-9e01-18058d0aad40,Nokia Mobile,smart phone,Nokia,true,PC
+91a55d11-df9c-4bd1-ab1d-bffd7fb9d72c,Sony  Mobile,smart phone,Sony,true,PC
+e6695e9b-2606-4a4f-9121-e04edd44a129,LG Mobile,smart phone,LG,true,PC
+ca4b993a-a4cb-476a-9ebe-e442a4af5598,Motorola Mobile,smart phone,Motorola,true,PC
+47986fbc-0944-42fc-b1bd-a5dfbaf8bcef,oppo Mobile,smart phone,oppo,true,PC
+02e51cf7-455b-4e47-af44-5f6431748823,Apple Mobile,smart phone,Apple,true,PC
+20574ad8-f61d-464f-a0d2-ed6dbaa9f630,OnePlus Mobile,smart phone,OnePlus,true,PC
+cc839976-dbe5-4382-b2c2-a83c54f2dc0a,Huawei Mobile,smart phone,Huawei,true,PC
+84e1f2d3-0ada-4cc2-a0ee-2caaa8169d33,HTC Mobile,smart phone,HTC,true,PC
+4262490d-1e03-408d-8fc0-41279e9484cc,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+4aaffd2c-226a-40e5-bb6b-04777c4c6bc5,Nokia Mobile,smart phone,Nokia,true,PC
+59d9ce73-1ce7-4a23-8cf4-4268df096e9b,Sony  Mobile,smart phone,Sony,true,PC
+902dac2c-149d-48d5-ad14-c90eeaddc90f,LG Mobile,smart phone,LG,true,PC
+69610a22-f09c-43d0-a51e-1b51b6bfd529,Motorola Mobile,smart phone,Motorola,true,PC
+46da4f60-a882-4adb-83fb-4123e01fb5b1,oppo Mobile,smart phone,oppo,true,PC
+2768ec20-95d7-4201-a4e7-39cb94144144,Apple Mobile,smart phone,Apple,true,PC
+8738c52d-1964-4b09-a2ce-76223afec1c6,OnePlus Mobile,smart phone,OnePlus,true,PC
+a3c9a278-97a6-4f1c-96e9-c3da4691043c,Huawei Mobile,smart phone,Huawei,true,PC
+e67fb91a-3d53-4252-936f-31a2d2327302,HTC Mobile,smart phone,HTC,true,PC
+58dde23e-b978-47a7-a89d-55ab87fa5a45,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+2d3f74fb-458b-40ac-a1cb-0a819406a81f,Nokia Mobile,smart phone,Nokia,true,PC
+b76f1078-0b95-43f1-9b68-1ef299af38b2,Sony  Mobile,smart phone,Sony,true,PC
+84577efb-7f1d-4e8c-90b9-558458f4d097,LG Mobile,smart phone,LG,true,PC
+32f6e319-db2d-4918-b448-a900a8c46bb5,Motorola Mobile,smart phone,Motorola,true,PC
+22d28259-f3ac-4b7e-a64d-bf9970ef0438,oppo Mobile,smart phone,oppo,true,PC
+5af45a32-951e-4d13-8d04-473d925b6bb4,Apple Mobile,smart phone,Apple,true,PC
+0216d39c-f69a-4789-b2b4-b9fbbf49613a,OnePlus Mobile,smart phone,OnePlus,true,PC
+9f612d4e-1be1-40d6-9144-d5e32c4af675,Huawei Mobile,smart phone,Huawei,true,PC
+6c2af87b-8f84-45e8-aa1d-011650cc8657,HTC Mobile,smart phone,HTC,true,PC
+c0df05c1-e889-4656-b26f-1f475baabbbc,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+2f6b5d04-81e1-4675-ad92-bbe105fa7078,Nokia Mobile,smart phone,Nokia,true,PC
+22710602-9da2-45d3-9561-42d237c3e6b6,Sony  Mobile,smart phone,Sony,true,PC
+4542374c-de06-469a-940b-10cef7d59d4a,LG Mobile,smart phone,LG,true,PC
+af6866e6-12ff-408c-a85b-1e063b3f5e40,Motorola Mobile,smart phone,Motorola,true,PC
+d730cf6e-7b2a-4770-9b69-c6658a48c13f,oppo Mobile,smart phone,oppo,true,PC
+3afdca2a-4593-406a-b857-b24c1bff852e,Apple Mobile,smart phone,Apple,true,PC
+0cb435d3-2655-4623-82b6-03ecfb569d54,OnePlus Mobile,smart phone,OnePlus,true,PC
+234caebf-f8d1-4fac-994a-f0f7ddd96c9c,Huawei Mobile,smart phone,Huawei,true,PC
+d219d562-2fcc-4fc6-a862-91cfe2d3924f,HTC Mobile,smart phone,HTC,true,PC
+a81c92eb-cca5-4779-ac10-3f57d5d99f5a,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+9061f924-bc7b-4c50-a8f9-740fa0f0b874,Nokia Mobile,smart phone,Nokia,true,PC
+b255fe4c-7181-4b36-9ce9-218b7b50e2ce,Sony  Mobile,smart phone,Sony,true,PC
+032d5a84-400e-49e3-9658-57dcef2015a6,LG Mobile,smart phone,LG,true,PC
+6e131135-bbac-4cfc-b172-a4b50a759862,Motorola Mobile,smart phone,Motorola,true,PC
+9fcf4cbf-7352-49ac-9c74-63f4b95e74ea,oppo Mobile,smart phone,oppo,true,PC
+1530b266-4993-4c20-8aff-dbba2b8ddc4f,Apple Mobile,smart phone,Apple,true,PC
+89feb02c-99ec-4c6a-9db5-09250920afb3,OnePlus Mobile,smart phone,OnePlus,true,PC
+708d9964-426e-44e9-8572-112387d8f134,Huawei Mobile,smart phone,Huawei,true,PC
+673bbd07-b646-43b6-a7e8-a145a1945147,HTC Mobile,smart phone,HTC,true,PC
+1864e803-42e4-430a-8aab-fbaea59f154b,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+e508cc35-9fef-4109-93a7-d2598d28df8f,Nokia Mobile,smart phone,Nokia,true,PC
+7f76ff16-ae31-4972-90d2-8ba7affa03f6,Sony  Mobile,smart phone,Sony,true,PC
+3766495a-02f3-4ffe-bb4b-25e791eef12e,LG Mobile,smart phone,LG,true,PC
+17c4d74a-2b4a-4668-8c46-ae947bcd3164,Motorola Mobile,smart phone,Motorola,true,PC
+3c1ac30a-3654-4ec6-9054-9bc8f417c92a,oppo Mobile,smart phone,oppo,true,PC
+d56689c5-b0ee-4a84-ba95-1a578f4e2ccc,Apple Mobile,smart phone,Apple,true,PC
+80f8c3df-8873-4349-839c-804707877b84,OnePlus Mobile,smart phone,OnePlus,true,PC
+6c8d6f00-9885-474e-99b8-1fb930f872bd,Huawei Mobile,smart phone,Huawei,true,PC
+384115a7-f3b2-44f6-8c91-5cf6e8dc9070,HTC Mobile,smart phone,HTC,true,PC
+f7765489-1837-4d61-b6d3-252ddf8699df,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+6fd44d85-3868-4c05-8711-4938fa2479cf,Nokia Mobile,smart phone,Nokia,true,PC
+385a1931-e326-4128-aea6-7ad0a943e48d,Sony  Mobile,smart phone,Sony,true,PC
+02f190b1-d723-4210-90ac-d74474c0fed8,LG Mobile,smart phone,LG,true,PC
+5d79a0ee-c24e-4f50-8834-f4b2a8ab7797,Motorola Mobile,smart phone,Motorola,true,PC
+4ce87241-0ccf-4f00-8c76-ed4ba3a4a8af,oppo Mobile,smart phone,oppo,true,PC
+7a469b19-e7f7-4f70-b633-4954cd26b66f,Apple Mobile,smart phone,Apple,true,PC
+48906304-48e2-496c-a397-9d3221682387,OnePlus Mobile,smart phone,OnePlus,true,PC
+81fdaffd-dcb7-4354-8129-696627f0e4b8,Huawei Mobile,smart phone,Huawei,true,PC
+87ff4e92-d13b-468c-81d8-3ee9623ba1a9,HTC Mobile,smart phone,HTC,true,PC
+034fc217-b9d6-446e-8efc-3f321525e8f4,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+3d1e04ed-98b8-4553-85af-fa3a456561cd,Nokia Mobile,smart phone,Nokia,true,PC
+377d8470-4ac5-4c38-aa7b-437e03617598,Sony  Mobile,smart phone,Sony,true,PC
+ea8e355c-dae8-464f-80bc-d4ac174f35f7,LG Mobile,smart phone,LG,true,PC
+7d94e42d-12ed-4467-bab9-9cfad3e14c1b,Motorola Mobile,smart phone,Motorola,true,PC
+bd9d178b-3b1d-4ef5-9478-579a9ff4d399,oppo Mobile,smart phone,oppo,true,PC
+c9cb5394-36aa-4f63-bca1-19246d2803c6,Apple Mobile,smart phone,Apple,true,PC
+ff68da41-370c-4495-90ef-361c9ecc9c60,OnePlus Mobile,smart phone,OnePlus,true,PC
+95cfaa0c-e2d4-42cf-98b0-8baa2c8e44ee,Huawei Mobile,smart phone,Huawei,true,PC
+f8262ee7-e377-4b3a-8f89-131c5e06219d,HTC Mobile,smart phone,HTC,true,PC
+9f088aff-4136-4550-bbf8-da53c5155cf7,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+e4042daa-9ff9-458e-9890-22cd1c41293a,Nokia Mobile,smart phone,Nokia,true,PC
+fe9c74a5-9f14-43e4-8011-949c6b751630,Sony  Mobile,smart phone,Sony,true,PC
+cdc89fd1-6430-4c35-981a-6f581489a744,LG Mobile,smart phone,LG,true,PC
+fe6171be-f1ff-4eac-a1ce-17000ffa7488,Motorola Mobile,smart phone,Motorola,true,PC
+bc05c02b-21a4-4298-a250-6a9b2f31e597,oppo Mobile,smart phone,oppo,true,PC
+cd5b8675-0bc2-4b32-9691-af5989d99013,Apple Mobile,smart phone,Apple,true,PC
+63d7fe31-95d7-409f-a1a8-689258b6c54d,OnePlus Mobile,smart phone,OnePlus,true,PC
+d8daff06-8603-4960-a7e1-719605132488,Huawei Mobile,smart phone,Huawei,true,PC
+eebad15c-03a6-4cf5-9647-6bce9a12533e,HTC Mobile,smart phone,HTC,true,PC
+4efc9fd7-d37a-460a-8c5a-baa847ae1249,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+0c5f2a21-48c3-49db-a349-58305bd8aa69,Nokia Mobile,smart phone,Nokia,true,PC
+fcd76d44-88de-4013-b437-fd391462d4a6,Sony  Mobile,smart phone,Sony,true,PC
+5f0e15ac-e4d3-4097-a06d-3d041a1c865b,LG Mobile,smart phone,LG,true,PC
+8e11de31-1b19-4e08-9795-69d1a0fb0e83,Motorola Mobile,smart phone,Motorola,true,PC
+0c788c4b-64d5-4ea8-84e1-9d7ab744e2ac,oppo Mobile,smart phone,oppo,true,PC
+dc28ba8a-b22d-4340-98da-7f11542999e1,Apple Mobile,smart phone,Apple,true,PC
+b082f288-e2fc-4418-9c93-49d33576b040,OnePlus Mobile,smart phone,OnePlus,true,PC
+c71545f3-7309-44cd-8b01-40f0ce22e929,Huawei Mobile,smart phone,Huawei,true,PC
+fc0fe001-7633-4c56-b994-3a9e84b63111,HTC Mobile,smart phone,HTC,true,PC
+a1ec8e3d-fa8b-47ce-bc10-b1fb54a8a843,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+d75495d5-e5bb-48f0-9944-afb18b767a41,Nokia Mobile,smart phone,Nokia,true,PC
+6a523044-6cc3-40ef-8d8d-0adff52096be,Sony  Mobile,smart phone,Sony,true,PC
+21579608-afbc-446d-94f0-7c25fac1de98,LG Mobile,smart phone,LG,true,PC
+d921d820-c237-4f57-8354-e9ccb153159f,Motorola Mobile,smart phone,Motorola,true,PC
+16b21c01-6ee3-4e05-9b11-b6a095d4e58e,oppo Mobile,smart phone,oppo,true,PC
+0b187cd2-ce3f-482d-bc88-8a2e4f56d74e,Apple Mobile,smart phone,Apple,true,PC
+6b2c791f-896a-4702-8127-bad1179b5a96,OnePlus Mobile,smart phone,OnePlus,true,PC
+9d892eca-50dd-4f54-a6d6-c921e750b3f9,Huawei Mobile,smart phone,Huawei,true,PC
+a1402766-4928-40f7-b654-247ddfbb21a3,HTC Mobile,smart phone,HTC,true,PC
+02c8018e-5c6e-4441-83d9-fc50a51bb753,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+542cfdbe-fa03-4343-a7de-0e0340ec3aba,Nokia Mobile,smart phone,Nokia,true,PC
+5fae6382-5ad0-4d0f-be3e-37020bfe5ba5,Sony  Mobile,smart phone,Sony,true,PC
+3c63494c-149b-4f2c-bb86-5faf1b0d33bf,LG Mobile,smart phone,LG,true,PC
+91c52bfb-41ef-457f-a4f4-e8794605da62,Motorola Mobile,smart phone,Motorola,true,PC
+a11a8405-fd13-46bc-bba3-e2b44fe7e19a,oppo Mobile,smart phone,oppo,true,PC
+fbee8bed-651d-4079-b663-4a179ca17d25,Apple Mobile,smart phone,Apple,true,PC
+aa14de50-003a-4f2b-a5bf-78417ad77270,OnePlus Mobile,smart phone,OnePlus,true,PC
+53562423-67bd-4bf7-9deb-bebb80ba1d5a,Huawei Mobile,smart phone,Huawei,true,PC
+f195952c-c439-44a9-a59a-4bd8039da17e,HTC Mobile,smart phone,HTC,true,PC
+ed102303-de57-4e9f-ac38-f179a2ea3c70,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+876b9fb9-a6a6-4d30-9001-7ddf97481741,Nokia Mobile,smart phone,Nokia,true,PC
+baa96697-7197-44ba-8507-ff33e93a52dc,Sony  Mobile,smart phone,Sony,true,PC
+2cf16b25-5201-4a2e-80e4-82d1f171ae1f,LG Mobile,smart phone,LG,true,PC
+c364e16d-4f8d-4c02-820a-c29ec60d3841,Motorola Mobile,smart phone,Motorola,true,PC
+4aa65550-454e-4f08-baec-0a127a5bf8fb,oppo Mobile,smart phone,oppo,true,PC
+bdb19a26-f424-41fa-aa75-1a017b3c2398,Apple Mobile,smart phone,Apple,true,PC
+d7ffa822-2c37-4c40-a3fa-07a839f2e6a7,OnePlus Mobile,smart phone,OnePlus,true,PC
+fdb2f981-c7f0-4664-8db0-bf9f80d1dabe,Huawei Mobile,smart phone,Huawei,true,PC
+466ae86e-d1e9-44ad-829e-74650716e2d0,HTC Mobile,smart phone,HTC,true,PC
+c2aa2f82-2a04-4159-b4d6-3296c0283ef4,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+b305da91-5a41-4a43-9139-78319e6836f8,Nokia Mobile,smart phone,Nokia,true,PC
+ba41590c-69b1-4d75-bb87-1a8dc3c1a7a1,Sony  Mobile,smart phone,Sony,true,PC
+93508a71-19de-498e-ad48-7fe3c61fefa1,LG Mobile,smart phone,LG,true,PC
+a7131c9f-08ec-4fce-9dbe-e6cd21b84457,Motorola Mobile,smart phone,Motorola,true,PC
+878c5ff1-b6b3-4811-849d-353c16d055de,oppo Mobile,smart phone,oppo,true,PC
+661c075e-1237-4c41-b3e4-c2615fb8f04f,Apple Mobile,smart phone,Apple,true,PC
+a0a0a304-c6b5-43da-80e4-82331b5358b2,OnePlus Mobile,smart phone,OnePlus,true,PC
+4349ff90-cd4c-4633-a7fc-2ac24f156114,Huawei Mobile,smart phone,Huawei,true,PC
+414a8bf6-95d1-43b5-9445-a9a502c4f1b0,HTC Mobile,smart phone,HTC,true,PC
+78c9ea87-d883-4485-87a2-7e745705ec0d,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+223f5041-b3b0-4e7d-b4bc-b038a7073bde,Nokia Mobile,smart phone,Nokia,true,PC
+3fd60ee4-2551-4dae-8899-6bcbf06a8582,Sony  Mobile,smart phone,Sony,true,PC
+6e19b289-d6a3-4ce1-85e6-7c6c02a5221f,LG Mobile,smart phone,LG,true,PC
+805ed682-98ff-488e-a459-c9a342f1e1a2,Motorola Mobile,smart phone,Motorola,true,PC
+0f1fa80c-2890-478a-9877-14663a6b7b01,oppo Mobile,smart phone,oppo,true,PC
+e97b3869-2e26-4cc5-a2d3-112265ab80f6,Apple Mobile,smart phone,Apple,true,PC
+73428a5a-68e1-4101-807c-595379d6e65f,OnePlus Mobile,smart phone,OnePlus,true,PC
+470cd38e-6353-44e9-877f-118a9bc73b26,Huawei Mobile,smart phone,Huawei,true,PC
+756a8afa-3889-4ef2-9fe6-00f6f026eb63,HTC Mobile,smart phone,HTC,true,PC
+1993e85e-3c8a-4611-8e54-79b2dac54b02,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+bef5f21e-ec39-44e4-92ab-005e048d3be2,Nokia Mobile,smart phone,Nokia,true,PC
+9e7858a5-dfc7-49c0-871f-af6c2c8a7764,Sony  Mobile,smart phone,Sony,true,PC
+5b44892a-f2ea-4278-9b96-d4b3866e50f9,LG Mobile,smart phone,LG,true,PC
+92c4a134-e967-4800-8afb-c0db54701e60,Motorola Mobile,smart phone,Motorola,true,PC
+0311d5a5-359e-4c86-91f3-29a9757df64a,oppo Mobile,smart phone,oppo,true,PC
+c2f61fe7-140b-47fe-a2c6-bea810361262,Apple Mobile,smart phone,Apple,true,PC
+1c764a53-81a0-42b7-a6b5-379b9028ec3a,OnePlus Mobile,smart phone,OnePlus,true,PC
+be7f02c4-67b0-4bcf-8a10-c3cb974b7710,Huawei Mobile,smart phone,Huawei,true,PC
+1aa74e44-8c91-4270-ac91-0e6191be74d9,HTC Mobile,smart phone,HTC,true,PC
+d3ba3ae3-9672-42f8-8f2f-285604b7f280,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+9addd94c-a53c-4c11-bb62-c3feb6342a08,Nokia Mobile,smart phone,Nokia,true,PC
+a33f95cd-85ef-4c84-9986-ee900be4667d,Sony  Mobile,smart phone,Sony,true,PC
+f55c8135-07cf-446a-aa0e-3c0653e4636d,LG Mobile,smart phone,LG,true,PC
+24467666-89ae-4eb9-bdff-b099d18dd264,Motorola Mobile,smart phone,Motorola,true,PC
+ca04e71a-d32e-4ae2-89f4-d1ea7b5fc3a1,oppo Mobile,smart phone,oppo,true,PC
+bd42cdc0-e70f-457b-b0a4-e8d1fdf57b22,Apple Mobile,smart phone,Apple,true,PC
+3c30e8af-8cc0-4905-a8cd-90d4240709d3,OnePlus Mobile,smart phone,OnePlus,true,PC
+d5938329-8dc3-4aaf-8ba0-b4eb338fa3ff,Huawei Mobile,smart phone,Huawei,true,PC
+218a62d0-edc0-45ba-b509-596b0ffe7fba,HTC Mobile,smart phone,HTC,true,PC
+8bd69a64-6b81-4bb9-916f-0cc7eb136527,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+cb94040c-555b-4a59-a2b8-78209800a109,Nokia Mobile,smart phone,Nokia,true,PC
+a430633f-d1f3-4130-8a97-54bcab48d2c4,Sony  Mobile,smart phone,Sony,true,PC
+c1be3c4c-1711-4c4c-b3e9-a1f0e4ed5bfb,LG Mobile,smart phone,LG,true,PC
+dd228012-a1a8-4f1d-bbad-fa5df0289f48,Motorola Mobile,smart phone,Motorola,true,PC
+be92cd44-5293-41c4-8f27-a29519cd5588,oppo Mobile,smart phone,oppo,true,PC
+775f9792-6827-4bf3-83af-c71c38b9f8cd,Apple Mobile,smart phone,Apple,true,PC
+8c0ef2f5-4aad-4e61-87cc-75dd56976643,OnePlus Mobile,smart phone,OnePlus,true,PC
+dd50522c-6c8b-4d57-aa67-478ba1daf3b3,Huawei Mobile,smart phone,Huawei,true,PC
+b737cbec-84d2-4577-8362-56bba0d5e7e9,HTC Mobile,smart phone,HTC,true,PC
+92b73d17-4fa5-40bd-a8ec-f8829fd0f6fe,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+46b51980-21ca-436c-83fd-e73d1f980891,Nokia Mobile,smart phone,Nokia,true,PC
+4177a1e6-4157-4395-8c5a-cc2f35a00f89,Sony  Mobile,smart phone,Sony,true,PC
+40e331b5-63fe-495c-9a6b-65099b198035,LG Mobile,smart phone,LG,true,PC
+11a48d49-5b0a-4b3c-91ea-2d4e1edcbb7f,Motorola Mobile,smart phone,Motorola,true,PC
+8662b64e-e2a9-4e9f-a5ec-a72dc4a5b203,oppo Mobile,smart phone,oppo,true,PC
+9fbcba09-514e-4d4c-b61e-13395d32726a,Apple Mobile,smart phone,Apple,true,PC
+43028dc3-f98c-49cd-937a-73f7e17d1bac,OnePlus Mobile,smart phone,OnePlus,true,PC
+39eb1b79-6e6e-4ed7-a342-12dd221bc4ae,Huawei Mobile,smart phone,Huawei,true,PC
+fde88330-cbf6-4c54-9122-44693f5ef30b,HTC Mobile,smart phone,HTC,true,PC
+e0ec6c63-cb2e-472e-89ef-c437361c21d9,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+8284c14c-7638-429c-b96c-2b61c9c4411d,Nokia Mobile,smart phone,Nokia,true,PC
+50f0c946-73ad-4e87-9cb0-ce4ae9081ef4,Sony  Mobile,smart phone,Sony,true,PC
+c240919a-114b-40dd-9115-eb8f066af4dc,LG Mobile,smart phone,LG,true,PC
+3423ce77-e840-499d-978b-059e12153e8e,Motorola Mobile,smart phone,Motorola,true,PC
+86a68d6c-aece-47bc-944c-479cb75c2c16,oppo Mobile,smart phone,oppo,true,PC
+7f640ca8-dacc-45ff-b79f-c3bed2ea127a,Apple Mobile,smart phone,Apple,true,PC
+3875d693-e1ca-42d5-953e-51e326bef77d,OnePlus Mobile,smart phone,OnePlus,true,PC
+d42ed3f4-27a2-47b4-86ef-38717de32cd4,Huawei Mobile,smart phone,Huawei,true,PC
+52b500f5-c9fd-447a-ac4c-1745ade38cff,HTC Mobile,smart phone,HTC,true,PC
+efdd517d-d57e-4f90-8621-9ca47d773145,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+25f3222d-e3a0-48e4-8bbc-3c127ba483d5,Nokia Mobile,smart phone,Nokia,true,PC
+d191acbe-cf54-465a-b630-ab36bdf49eeb,Sony  Mobile,smart phone,Sony,true,PC
+84925c83-f823-48da-a306-9c7d6576da5f,LG Mobile,smart phone,LG,true,PC
+b77770fe-eb57-452a-a4e5-20c845b2b7ba,Motorola Mobile,smart phone,Motorola,true,PC
+b3814230-1079-4b2b-9660-dfb21e84f0fd,oppo Mobile,smart phone,oppo,true,PC
+4c742482-bab9-405a-92cb-0376c5f431cc,Apple Mobile,smart phone,Apple,true,PC
+a8dd56ff-3fd5-4362-b5c2-6303c65747b3,OnePlus Mobile,smart phone,OnePlus,true,PC
+27d56ec3-b3dd-4af1-bc78-7aacabc5dd76,Huawei Mobile,smart phone,Huawei,true,PC
+114e13ff-0859-49b8-94b5-cea0ac343978,HTC Mobile,smart phone,HTC,true,PC
+6581fbe9-d1ba-496c-aee5-8fed78786faa,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+804968a3-4480-4d5d-9427-2e203af47f94,Nokia Mobile,smart phone,Nokia,true,PC
+4c8d3805-4032-489e-a962-8a012341c23a,Sony  Mobile,smart phone,Sony,true,PC
+3d42b409-6ad5-4fb4-943c-e5e214e5cd7d,LG Mobile,smart phone,LG,true,PC
+124b0b72-9664-46a0-91df-56f77514c80e,Motorola Mobile,smart phone,Motorola,true,PC
+4776ab63-3212-4fb7-8579-743778acad5b,oppo Mobile,smart phone,oppo,true,PC
+bd7850a3-0c6f-4e5d-91ee-2fddb68f3045,Apple Mobile,smart phone,Apple,true,PC
+0b3de7db-ce9a-450e-a8ed-543bbfe92539,OnePlus Mobile,smart phone,OnePlus,true,PC
+f0d668cf-c225-456b-aa2d-10bbb8a932ce,Huawei Mobile,smart phone,Huawei,true,PC
+68b9f5e5-7207-4a38-9def-2c8a6d169d66,HTC Mobile,smart phone,HTC,true,PC
+d8f841fb-3e77-4d44-889a-7def54ef4da3,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+5fc55fe4-781b-42cd-beda-765779e8be16,Nokia Mobile,smart phone,Nokia,true,PC
+89724f94-cea4-42d9-a7e3-8b2fd84c4ff5,Sony  Mobile,smart phone,Sony,true,PC
+d6f1f496-3c53-4240-a930-47ab1f6ccde6,LG Mobile,smart phone,LG,true,PC
+dac11b62-8ca9-4c62-b0cb-7bb70bd17c6a,Motorola Mobile,smart phone,Motorola,true,PC
+13a9a481-7ffb-45c7-8254-50ce8035cef2,oppo Mobile,smart phone,oppo,true,PC
+dc7119ce-f80a-4f4d-91d2-4fe6af4055f8,Apple Mobile,smart phone,Apple,true,PC
+d31db975-3669-4826-a8b4-09f7c74fbaec,OnePlus Mobile,smart phone,OnePlus,true,PC
+81ecb18c-d988-42e2-98e7-b075c10b471a,Huawei Mobile,smart phone,Huawei,true,PC
+e39c31ec-c781-4db5-959e-1845223afeb4,HTC Mobile,smart phone,HTC,true,PC
+01910e16-af1c-4d44-a8e8-5360e30efa62,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+5bda855f-bfa3-4bdd-97eb-b7fbc72f470e,Nokia Mobile,smart phone,Nokia,true,PC
+0002853e-bddd-4663-b7a6-2ff12ee807fc,Sony  Mobile,smart phone,Sony,true,PC
+85dd59bf-574b-4815-b16a-a313e170a722,LG Mobile,smart phone,LG,true,PC
+66239be5-74b5-4fa6-8c6b-1a4fc0f3ec25,Motorola Mobile,smart phone,Motorola,true,PC
+f8da4b96-6ae2-4678-95d5-5d5a1bf02598,oppo Mobile,smart phone,oppo,true,PC
+7c1c1aab-20d0-4844-8d5c-bb98210ea919,Apple Mobile,smart phone,Apple,true,PC
+2399a714-8e11-4744-9b00-876105a52323,OnePlus Mobile,smart phone,OnePlus,true,PC
+f39d29c1-c28b-4808-a834-bff59db3be88,Huawei Mobile,smart phone,Huawei,true,PC
+0d82eb0f-ab2e-4297-905b-5d7e10a7fd89,HTC Mobile,smart phone,HTC,true,PC
+feee8560-fc46-4818-9da9-1c529d5a2c72,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+655d4f8a-22ff-4bd5-b3b1-8e98ebdc3417,Nokia Mobile,smart phone,Nokia,true,PC
+25ef10c1-2be5-4329-ae83-649a18964201,Sony  Mobile,smart phone,Sony,true,PC
+38887307-ba28-4539-8fb5-7fed4ca39af4,LG Mobile,smart phone,LG,true,PC
+70b051da-784e-47f0-be28-a2b4af87f78e,Motorola Mobile,smart phone,Motorola,true,PC
+db6eefef-1653-4a88-89d1-6e2a56177020,oppo Mobile,smart phone,oppo,true,PC
+cdb54bcf-a94a-4535-898f-666888bb4498,Apple Mobile,smart phone,Apple,true,PC
+3a4a0552-a733-472d-8a7b-4baec9cb0475,OnePlus Mobile,smart phone,OnePlus,true,PC
+cffa0df6-4030-4c90-8089-6a9b4c1aac1c,Huawei Mobile,smart phone,Huawei,true,PC
+03c261ba-daef-4116-a5aa-e3a2f7ed95d6,HTC Mobile,smart phone,HTC,true,PC
+2be6e182-d28c-41e3-a4ae-038440f28015,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+186c8d03-8b8a-4040-8ed8-3a40103b902f,Nokia Mobile,smart phone,Nokia,true,PC
+8f21ce81-4ea2-4503-a40e-8104b90aedc8,Sony  Mobile,smart phone,Sony,true,PC
+48d6090e-a0f3-43ed-bce6-53b3b821418f,LG Mobile,smart phone,LG,true,PC
+ff73e869-fd6a-4bad-a387-d4aaf96033e5,Motorola Mobile,smart phone,Motorola,true,PC
+751f7ee7-c1ad-4a83-9b1f-3c86c5942dcb,oppo Mobile,smart phone,oppo,true,PC
+18452600-6511-4a4d-a1ab-0dcaf0d6dac1,Apple Mobile,smart phone,Apple,true,PC
+90332761-d3b4-4218-9731-7c057aebd45e,OnePlus Mobile,smart phone,OnePlus,true,PC
+679e28d9-bda7-415a-9afc-5159ac357a4b,Huawei Mobile,smart phone,Huawei,true,PC
+51240fef-ade1-4db6-90f7-59480f1a5ce4,HTC Mobile,smart phone,HTC,true,PC
+c9aa2706-7a2d-4bfc-9ccf-83509fd80f3d,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+6c1316de-3a4b-4c56-a974-c15676dd1e26,Nokia Mobile,smart phone,Nokia,true,PC
+ff83a369-1c7a-47f7-8be2-13064408d737,Sony  Mobile,smart phone,Sony,true,PC
+6610182c-7767-4f10-a95d-79b194ab0120,LG Mobile,smart phone,LG,true,PC
+d9456b17-d51f-4ddd-b38d-332c7a4034a5,Motorola Mobile,smart phone,Motorola,true,PC
+25d1682f-07a8-474d-b99c-fe633436f389,oppo Mobile,smart phone,oppo,true,PC
+a1d723bf-7f8b-45c8-b638-4557a1d759b8,Apple Mobile,smart phone,Apple,true,PC
+52534f14-c02e-4c6d-9c45-264db4c1045e,OnePlus Mobile,smart phone,OnePlus,true,PC
+7d5497f3-49f1-4e7e-bc1a-d431b4619407,Huawei Mobile,smart phone,Huawei,true,PC
+2f7dcd6d-3af2-4c96-8788-b84495d7059f,HTC Mobile,smart phone,HTC,true,PC
+3276b80f-81e5-4065-8fda-8eae22dd0e20,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+8a838bf1-3fc1-43be-ac08-39f58290cf5b,Nokia Mobile,smart phone,Nokia,true,PC
+ba6429d0-c3f1-4ce7-b7b9-41ea2d7286d6,Sony  Mobile,smart phone,Sony,true,PC
+c81cd1c9-3341-4226-9f6d-0e01cba5243c,LG Mobile,smart phone,LG,true,PC
+1b854c6f-7e60-4743-9e90-403c78534771,Motorola Mobile,smart phone,Motorola,true,PC
+0d258a44-27fd-43a7-9060-2ffe6b29f44e,oppo Mobile,smart phone,oppo,true,PC
+1484b4b8-52c3-4bfc-be18-2fc9d1b5ed4c,Apple Mobile,smart phone,Apple,true,PC
+3c5ecd91-eacd-42c8-9fe6-446f50b67d29,OnePlus Mobile,smart phone,OnePlus,true,PC
+d0869e24-e07e-492b-9293-7d13903230bf,Huawei Mobile,smart phone,Huawei,true,PC
+d2146e31-2616-45d6-96dc-6b7647768ef7,HTC Mobile,smart phone,HTC,true,PC
+8b0fb3a4-e595-494c-902c-3922bfc21e8b,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+ce77cc3b-59cc-4634-b833-246a78f8d3c4,Nokia Mobile,smart phone,Nokia,true,PC
+286c2495-8af6-45fe-9f39-7e0cce80b787,Sony  Mobile,smart phone,Sony,true,PC
+6595c5df-940b-48a9-8a18-0923fc7377bd,LG Mobile,smart phone,LG,true,PC
+a879e8cb-2de8-4343-8afb-a4074df86dee,Motorola Mobile,smart phone,Motorola,true,PC
+299d9cc9-62cb-4e7b-8aaa-986f7b597fc4,oppo Mobile,smart phone,oppo,true,PC
+fdfb46da-c698-499e-82b5-cb3a9dd0a46b,Apple Mobile,smart phone,Apple,true,PC
+7e037e18-db91-451a-8798-a855da719344,OnePlus Mobile,smart phone,OnePlus,true,PC
+36d506ae-076f-44e0-b0dc-dfbc112c85ab,Huawei Mobile,smart phone,Huawei,true,PC
+e8682e0f-c7e5-4025-b4dd-8dc6cb48bc8b,HTC Mobile,smart phone,HTC,true,PC
+a92a7559-0982-46c8-ac65-d7eb230fd3b7,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+8bcaea11-c11b-468d-84f4-8ded7a02b4da,Nokia Mobile,smart phone,Nokia,true,PC
+86fcd7d5-31bf-4708-8a4c-79702b2f68b0,Sony  Mobile,smart phone,Sony,true,PC
+227099d7-909e-41c2-bc0e-7ce8f7c94341,LG Mobile,smart phone,LG,true,PC
+44458abf-c356-4ab6-9d39-abfd5fc529c8,Motorola Mobile,smart phone,Motorola,true,PC
+5a507e11-98af-4194-a2c8-841ab6d3bc63,oppo Mobile,smart phone,oppo,true,PC
+ebcf566b-ba4c-4096-bf2a-fa2f866cf361,Apple Mobile,smart phone,Apple,true,PC
+e2752fe5-5729-4ddf-93d3-70ed61643629,OnePlus Mobile,smart phone,OnePlus,true,PC
+7f1a174b-bae3-4175-8ef1-90bbd9823e20,Huawei Mobile,smart phone,Huawei,true,PC
+a0f9fda2-4213-4bbb-8451-cda5937e03c4,HTC Mobile,smart phone,HTC,true,PC
+47491b65-6df0-4d2c-9560-66b786460091,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+60c11dd7-d1e6-4e79-b7c8-25d08edc3f54,Nokia Mobile,smart phone,Nokia,true,PC
+47963a6a-b61b-4841-8c75-e9a894caa1b5,Sony  Mobile,smart phone,Sony,true,PC
+d934ef17-3770-4a72-b561-81d51d33e467,LG Mobile,smart phone,LG,true,PC
+9b2b82b9-fb3e-4c9e-8536-f2d9af7773f0,Motorola Mobile,smart phone,Motorola,true,PC
+9f484359-6a4b-4517-aa3f-5b03c9d89499,oppo Mobile,smart phone,oppo,true,PC
+90f6b33b-167f-41df-a1f7-5fceb4dd393a,Apple Mobile,smart phone,Apple,true,PC
+17ad9016-8c8e-4c23-80f7-753b704c0068,OnePlus Mobile,smart phone,OnePlus,true,PC
+d5fc640e-95dd-4616-aa0f-5a064a78937e,Huawei Mobile,smart phone,Huawei,true,PC
+a7f7639b-5d09-4b0f-9959-294ce2373606,HTC Mobile,smart phone,HTC,true,PC
+82da2479-2277-4600-8905-45a7d5012a7e,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+39d1047c-fe6e-4d1a-b6c6-5e2ab328fe76,Nokia Mobile,smart phone,Nokia,true,PC
+3f1d11c5-15a7-4305-addc-b7f82279fc53,Sony  Mobile,smart phone,Sony,true,PC
+180cda74-188b-4135-98e4-59ef97f388fc,LG Mobile,smart phone,LG,true,PC
+a1ecaa0d-3bf6-4622-85d2-bfc87087998c,Motorola Mobile,smart phone,Motorola,true,PC
+a6bd368f-7b36-4b30-8365-824a91b400a8,oppo Mobile,smart phone,oppo,true,PC
+e3dd58f7-1498-47cd-9a17-17098b5eed19,Apple Mobile,smart phone,Apple,true,PC
+28972cf5-b352-402b-babb-6040ab582587,OnePlus Mobile,smart phone,OnePlus,true,PC
+43db2be6-c12b-4f4e-8a29-94de8f313d8e,Huawei Mobile,smart phone,Huawei,true,PC
+ac11b79a-8a5d-4430-861a-bb7da644adc8,HTC Mobile,smart phone,HTC,true,PC
+b87b3526-88a1-4f05-ac2c-cf5ea33e2704,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+117a64ed-dedd-4d25-9f90-77d7719f72c9,Nokia Mobile,smart phone,Nokia,true,PC
+9fd88ee0-245d-45d4-b107-5c1dc0848caa,Sony  Mobile,smart phone,Sony,true,PC
+c0e5c23e-0c50-4107-81e7-d452f80de159,LG Mobile,smart phone,LG,true,PC
+0671d36c-f087-4413-85ef-f3a60831b40e,Motorola Mobile,smart phone,Motorola,true,PC
+7e90e4b8-dc8a-4d7c-9f1d-86662f2246f1,oppo Mobile,smart phone,oppo,true,PC
+0945a36a-5902-481b-b030-b9bf5be0a2d2,Apple Mobile,smart phone,Apple,true,PC
+52716fbd-52c2-4fd7-a034-b2dc23df93ed,OnePlus Mobile,smart phone,OnePlus,true,PC
+0ecdbf4a-6f94-4aba-b6a4-d8135f9216ff,Huawei Mobile,smart phone,Huawei,true,PC
+2e836ddb-f48c-4ddc-b79d-5a585fa5d572,HTC Mobile,smart phone,HTC,true,PC
+116d8053-c629-4c52-9e90-d2362ebfcdab,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+f59d0706-d5af-4a47-a08d-ba002b7a41e1,Nokia Mobile,smart phone,Nokia,true,PC
+db67381e-1e85-4864-826c-c04b866ce95f,Sony  Mobile,smart phone,Sony,true,PC
+1682745a-a362-4458-b3d3-e8824fbd7f11,LG Mobile,smart phone,LG,true,PC
+ce4f9229-3f81-40e7-be69-1cec0614c150,Motorola Mobile,smart phone,Motorola,true,PC
+c8ecc598-2a14-400f-8e09-005038efb6af,oppo Mobile,smart phone,oppo,true,PC
+240b7fc7-29ed-4b85-80b2-85235e5eec41,Apple Mobile,smart phone,Apple,true,PC
+2d2148c8-0dbb-4bd0-96ee-3370561565a6,OnePlus Mobile,smart phone,OnePlus,true,PC
+ae73bee4-1674-4aa8-a123-43cc637b688f,Huawei Mobile,smart phone,Huawei,true,PC
+6eab7033-33f3-4d37-9d45-7e3576071e08,HTC Mobile,smart phone,HTC,true,PC
+60005939-949b-4c07-8018-9d4dcbfc96a7,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+77f880fb-7ee2-4c55-a819-58e62c2909d1,Nokia Mobile,smart phone,Nokia,true,PC
+ed5f57e9-3ce4-4561-ac4f-856b4141fbe2,Sony  Mobile,smart phone,Sony,true,PC
+dcca0075-b60a-49fb-a23f-07ce113e1736,LG Mobile,smart phone,LG,true,PC
+495d2c36-bb6d-4242-b3d8-910e74372b2e,Motorola Mobile,smart phone,Motorola,true,PC
+857c8919-4c0c-4193-9547-26dafe213cd7,oppo Mobile,smart phone,oppo,true,PC
+1394c5c6-04bc-45cc-a0b0-0e15dc463279,Apple Mobile,smart phone,Apple,true,PC
+0542a2f2-62c2-47ed-8185-d7d7ddf2e4d0,OnePlus Mobile,smart phone,OnePlus,true,PC
+c90acac2-7ffc-472c-8b98-078ba869e2c2,Huawei Mobile,smart phone,Huawei,true,PC
+49637f8a-0841-4134-ab27-aa6149f33c4c,HTC Mobile,smart phone,HTC,true,PC
+b32af84c-b4a8-43d4-9f96-b0ca25b19a1b,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+59b054a6-f522-4a71-844b-5c06bebc3d15,Nokia Mobile,smart phone,Nokia,true,PC
+f26e7728-7dd1-4933-abf7-07d59e5c7e9d,Sony  Mobile,smart phone,Sony,true,PC
+e21c6ba2-9ec4-46aa-9aa1-7402fffcddfd,LG Mobile,smart phone,LG,true,PC
+0b8f8c7d-a8f3-4749-b15a-0cf064150367,Motorola Mobile,smart phone,Motorola,true,PC
+b2a4a431-c049-4fde-81dc-47e336bdfc16,oppo Mobile,smart phone,oppo,true,PC
+4a16064c-6d3a-4454-874f-674242d4ddb9,Apple Mobile,smart phone,Apple,true,PC
+a43f73f5-3694-4984-9552-0c8a933d971b,OnePlus Mobile,smart phone,OnePlus,true,PC
+1be5c3a9-7c26-47a4-b63a-33e2b4674bf8,Huawei Mobile,smart phone,Huawei,true,PC
+a1dea024-a75f-4518-9b5b-49baa48082b4,HTC Mobile,smart phone,HTC,true,PC
+f25dc02b-053d-4f44-8d95-890736e6103f,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+2a695170-90a5-4d29-8a35-b5b12af41c2d,Nokia Mobile,smart phone,Nokia,true,PC
+4d824a8c-3ef9-4cb4-87b0-a4ef15c19c50,Sony  Mobile,smart phone,Sony,true,PC
+b7039024-c821-4c56-9bf4-b04813e392db,LG Mobile,smart phone,LG,true,PC
+8e13e698-07a8-4686-9807-8585b30cd484,Motorola Mobile,smart phone,Motorola,true,PC
+5e26e5b4-0df4-40d8-b42b-dec888911bd5,oppo Mobile,smart phone,oppo,true,PC
+453d3527-c1f3-4fdb-9719-0d8e86890143,Apple Mobile,smart phone,Apple,true,PC
+e6332721-adb7-4247-aadc-c569b3b4018a,OnePlus Mobile,smart phone,OnePlus,true,PC
+76ea67f9-245e-4e1b-89b5-0138e1dfb0ed,Huawei Mobile,smart phone,Huawei,true,PC
+6f25a18a-6771-40d6-9c77-f3fa763403d3,HTC Mobile,smart phone,HTC,true,PC
+28fe8bcc-7147-4668-a0f0-2e2663343fca,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+95b10989-2169-4162-8bc0-7627c79ce5c4,Nokia Mobile,smart phone,Nokia,true,PC
+95684f44-388b-45bf-81eb-85373ce2332d,Sony  Mobile,smart phone,Sony,true,PC
+3340c0b3-9ff6-4800-bf4a-fb5931f94daf,LG Mobile,smart phone,LG,true,PC
+b862cc81-8854-4d52-8af9-0e8ce8dddb8b,Motorola Mobile,smart phone,Motorola,true,PC
+dafe5c30-a273-4f1d-b43d-1f24350af380,oppo Mobile,smart phone,oppo,true,PC
+15da128c-d3a8-480a-ad56-eafc39fd6494,Apple Mobile,smart phone,Apple,true,PC
+bede2fde-396d-4aee-987d-052ef41eae1b,OnePlus Mobile,smart phone,OnePlus,true,PC
+3491d74b-b23c-4981-82eb-3170705d5b7a,Huawei Mobile,smart phone,Huawei,true,PC
+40f875bb-a2b5-4e83-a9ed-02b06ef36ec4,HTC Mobile,smart phone,HTC,true,PC
+7ab11fff-7982-4400-b019-abe329587fcb,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+e906a655-fd59-4cfb-a2a3-6e54eca07f9b,Nokia Mobile,smart phone,Nokia,true,PC
+c04881ee-6aa3-4961-88cc-4abc41dd742e,Sony  Mobile,smart phone,Sony,true,PC
+e7f904c6-f41f-4bc0-b45e-05c93e1819b7,LG Mobile,smart phone,LG,true,PC
+acdf4eba-ac1c-4b06-bf22-40f776e5ba79,Motorola Mobile,smart phone,Motorola,true,PC
+ba99b025-8a03-405b-b1a1-f04853f9e43e,oppo Mobile,smart phone,oppo,true,PC
+7fbd2de9-689b-44d9-8f5d-6b8e8552b8d3,Apple Mobile,smart phone,Apple,true,PC
+b0d28f23-cd09-47bd-ac29-cd2f1306d82d,OnePlus Mobile,smart phone,OnePlus,true,PC
+3716097c-726c-4b31-8319-b8196a0b24b5,Huawei Mobile,smart phone,Huawei,true,PC
+21df6ab7-f9c3-4508-9149-b22f746d979c,HTC Mobile,smart phone,HTC,true,PC
+b005e7a6-8998-4057-a85a-9f80456d577e,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+e0678033-f112-44ff-9ac8-933006ca7a63,Nokia Mobile,smart phone,Nokia,true,PC
+f7b85851-93df-4dd0-af81-09b4960acd51,Sony  Mobile,smart phone,Sony,true,PC
+4981b0cb-dbe2-4463-8619-5807cc830e9d,LG Mobile,smart phone,LG,true,PC
+7c68031d-f6d4-4f19-9608-f9ecd7aa3373,Motorola Mobile,smart phone,Motorola,true,PC
+6cfbd3f7-faed-4988-991d-878c928e69b2,oppo Mobile,smart phone,oppo,true,PC
+c108ecbb-a428-413c-8ea7-4874e5934e8c,Apple Mobile,smart phone,Apple,true,PC
+efd322a3-fc77-4a82-9baa-ccec26e960d8,OnePlus Mobile,smart phone,OnePlus,true,PC
+b25385d7-5205-4909-9bcc-d4dc56681682,Huawei Mobile,smart phone,Huawei,true,PC
+cfab445b-7080-462a-853d-7a10acceb514,HTC Mobile,smart phone,HTC,true,PC
+3c241775-61e4-4dcd-a44b-42989ad40f28,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+25182942-edf1-469b-b8ea-a38c18c1fff6,Nokia Mobile,smart phone,Nokia,true,PC
+006fa4e0-8523-4143-8453-f9e1130ac19d,Sony  Mobile,smart phone,Sony,true,PC
+5d7f0c62-53be-4d72-9663-ca199f967762,LG Mobile,smart phone,LG,true,PC
+5d74cdb9-6779-481d-bb5d-07198ef631e9,Motorola Mobile,smart phone,Motorola,true,PC
+fdc290c7-11a8-45de-a3d4-14238f3c4de3,oppo Mobile,smart phone,oppo,true,PC
+c2fd7f39-cdd3-4863-8ff6-d5e5592b6bd8,Apple Mobile,smart phone,Apple,true,PC
+b3b650b7-834d-4bd2-98c2-97b53bc53eab,OnePlus Mobile,smart phone,OnePlus,true,PC
+a9d14d02-f140-4270-9fe2-18e2f7d40ad6,Huawei Mobile,smart phone,Huawei,true,PC
+78b09466-e964-4660-b517-4037802b0a9c,HTC Mobile,smart phone,HTC,true,PC
+86133c2c-0d9d-469e-a483-fa5d56da6e93,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+147a69de-bd32-4b01-a4b5-9066537d72e0,Nokia Mobile,smart phone,Nokia,true,PC
+767fe093-c08c-46aa-ad6d-832b355f8d82,Sony  Mobile,smart phone,Sony,true,PC
+a71fc95c-4c4e-4083-ba69-440b7f3f8037,LG Mobile,smart phone,LG,true,PC
+82581746-70de-4f6e-8ff7-e540fab3e775,Motorola Mobile,smart phone,Motorola,true,PC
+634c7047-1bfc-47d1-ad09-1a29d71cd7fa,oppo Mobile,smart phone,oppo,true,PC
+e4cf3a1b-e7b7-4239-bc1d-071d6705a246,Apple Mobile,smart phone,Apple,true,PC
+ab559b83-d448-471d-8d6a-28e87b418c24,OnePlus Mobile,smart phone,OnePlus,true,PC
+1702cc77-c856-473d-a115-019af14b06da,Huawei Mobile,smart phone,Huawei,true,PC
+c59280a3-81e3-4ac1-92d5-badd6354b93d,HTC Mobile,smart phone,HTC,true,PC
+6188b43a-3c38-492d-8211-1df54afd9295,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+eb9faed1-c8f4-4747-af78-5c6176c6ff48,Nokia Mobile,smart phone,Nokia,true,PC
+2a9f8806-4885-402e-a3c9-250e82d12b02,Sony  Mobile,smart phone,Sony,true,PC
+cdf690fe-c59d-4bcc-b1d0-023845b677ba,LG Mobile,smart phone,LG,true,PC
+1266033c-151c-4172-9a26-6c2db414434e,Motorola Mobile,smart phone,Motorola,true,PC
+a8d55fa5-1456-4b16-99a0-a49e31ba9742,oppo Mobile,smart phone,oppo,true,PC
+3f9e3c02-d1fc-43f1-a2b1-9c7032750f40,Apple Mobile,smart phone,Apple,true,PC
+29f799a6-9a32-488f-986e-73addc68fc4b,OnePlus Mobile,smart phone,OnePlus,true,PC
+b0168363-3821-43a0-a8cf-894841ed8284,Huawei Mobile,smart phone,Huawei,true,PC
+54867cbf-65c7-4a1d-a9e8-95293fe28766,HTC Mobile,smart phone,HTC,true,PC
+bc3efd54-f4b7-4ce7-956c-5a8d2e99b6b4,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+a8ed2b8e-ccc3-4f47-97c2-f53a20e3faca,Nokia Mobile,smart phone,Nokia,true,PC
+006ac622-9267-4f45-8105-5a0fc8c8dab6,Sony  Mobile,smart phone,Sony,true,PC
+b4880d06-2f09-4c5a-9703-195ba1bc532e,LG Mobile,smart phone,LG,true,PC
+2b997f45-de24-4624-bda0-af8d51c5930a,Motorola Mobile,smart phone,Motorola,true,PC
+b0fa0ad2-5b18-44eb-b6e9-f720645d83c1,oppo Mobile,smart phone,oppo,true,PC
+3b36a892-8a23-4af5-983f-97fa8fe1e081,Apple Mobile,smart phone,Apple,true,PC
+adc208ec-7696-4d76-bbe9-24718a8e73f5,OnePlus Mobile,smart phone,OnePlus,true,PC
+db1231ce-3d52-407b-b6b8-95b92bf75d00,Huawei Mobile,smart phone,Huawei,true,PC
+fd06efc3-faa3-482d-b9e5-cc3d4142bb04,HTC Mobile,smart phone,HTC,true,PC
+05554a2d-64bb-4251-9790-160275f7ca74,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+f614bd8b-dd90-44a7-81d9-2cf7b93bf1b3,Nokia Mobile,smart phone,Nokia,true,PC
+73281853-7200-4c90-945b-3c3d17952d63,Sony  Mobile,smart phone,Sony,true,PC
+9d336914-ac5d-49c3-b46f-e9bb73758b05,LG Mobile,smart phone,LG,true,PC
+3c3fa91d-f09e-4ff4-afe2-0126b5cc98db,Motorola Mobile,smart phone,Motorola,true,PC
+eda49682-47f5-4a4c-9be0-9da960ce071b,oppo Mobile,smart phone,oppo,true,PC
+6b6423ab-efad-4889-8654-a3cf2a28c903,Apple Mobile,smart phone,Apple,true,PC
+b5330377-0264-4b6a-8d6a-e03a8a62f34a,OnePlus Mobile,smart phone,OnePlus,true,PC
+ef98e1b2-c131-467a-9bd6-faf4566c136f,Huawei Mobile,smart phone,Huawei,true,PC
+a553993f-9c1b-4033-8ad1-d89f5f6008fd,HTC Mobile,smart phone,HTC,true,PC
+895277e6-7754-4f40-b454-e5c581a832f5,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+9bedb8ac-c5f7-4342-b43c-cc66325a8384,Nokia Mobile,smart phone,Nokia,true,PC
+2ea3af39-9fae-453a-b5c9-7f82b6764830,Sony  Mobile,smart phone,Sony,true,PC
+a0d99a0f-2dd7-4774-b934-5929fa334011,LG Mobile,smart phone,LG,true,PC
+d3ffee34-306e-4005-8db2-96f3d352c207,Motorola Mobile,smart phone,Motorola,true,PC
+7617471d-4888-4d3b-98e7-e44c78654ee7,oppo Mobile,smart phone,oppo,true,PC
+bcce7fb3-b475-4405-80c1-244c9d3efb48,Apple Mobile,smart phone,Apple,true,PC
+dda8ecde-80d4-4023-ace6-9319b80980d2,OnePlus Mobile,smart phone,OnePlus,true,PC
+a5e50aa7-6947-4e4b-8cee-d95338416ee5,Huawei Mobile,smart phone,Huawei,true,PC
+c429d334-43eb-4302-a69a-038c8e53718b,HTC Mobile,smart phone,HTC,true,PC
+84455cdb-38c2-4f89-a9f0-6d9284eee4f2,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+3699ab2e-1cbd-4cb1-b80b-93804968eb1c,Nokia Mobile,smart phone,Nokia,true,PC
+f1fafebb-656c-480e-ae4c-a365ad51238d,Sony  Mobile,smart phone,Sony,true,PC
+9e2e504e-5a81-41d3-8d66-6dbb98f5c36b,LG Mobile,smart phone,LG,true,PC
+0e6feda6-8cc6-4ede-a9d6-c133f054946d,Motorola Mobile,smart phone,Motorola,true,PC
+c661f0da-f1fb-4d4f-88ed-8993fe8ef7a0,oppo Mobile,smart phone,oppo,true,PC
+a7ea8f5a-0509-46d4-aac7-254ba931bd65,Apple Mobile,smart phone,Apple,true,PC
+e9405e1f-b4d9-4079-aa52-422fc6346d5b,OnePlus Mobile,smart phone,OnePlus,true,PC
+6bfbb2a1-5bd9-4d83-b600-1b9f40f8454e,Huawei Mobile,smart phone,Huawei,true,PC
+1e7faaba-7fd4-4838-b385-7673dd2d3c37,HTC Mobile,smart phone,HTC,true,PC
+8b7143df-6ad2-4cb8-9484-0327a9998ab7,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+1e29e9b5-abab-478b-ac29-5470777e47a4,Nokia Mobile,smart phone,Nokia,true,PC
+99c9ffb4-1b8e-49b0-b9a0-f4d77ff72f7d,Sony  Mobile,smart phone,Sony,true,PC
+4f5fd8bc-34b2-4cca-bcdc-081e663da6a4,LG Mobile,smart phone,LG,true,PC
+d1982166-8633-4e71-9f0c-0253d61eeca2,Motorola Mobile,smart phone,Motorola,true,PC
+0598bfe6-7f3e-43b1-b747-1745aa79ce2e,oppo Mobile,smart phone,oppo,true,PC
+5393e4b0-0c61-4e53-8536-648f7441bae1,Apple Mobile,smart phone,Apple,true,PC
+563f3d91-9950-49fe-a17e-184edf183ebb,OnePlus Mobile,smart phone,OnePlus,true,PC
+a6e9ca08-df02-4e3e-b901-8c42f89fb375,Huawei Mobile,smart phone,Huawei,true,PC
+ad7d6a3e-d83d-49a2-9298-39915600fe97,HTC Mobile,smart phone,HTC,true,PC
+05759df9-0290-4e9f-96c6-97be80f3e2f1,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+92a96a0f-03e3-4da7-afe5-0bad42f7993b,Nokia Mobile,smart phone,Nokia,true,PC
+875599ae-40cc-4247-9fdc-63c50264d8a7,Sony  Mobile,smart phone,Sony,true,PC
+b6440427-34a3-4573-a8a9-7db060589c95,LG Mobile,smart phone,LG,true,PC
+b1edd72d-2f13-4833-98f9-b74198f90d5d,Motorola Mobile,smart phone,Motorola,true,PC
+4bec127d-8dad-43bd-a34b-e60c0486e2c2,oppo Mobile,smart phone,oppo,true,PC
+57f1bbeb-60e7-4351-8ae3-eb611bc973f3,Apple Mobile,smart phone,Apple,true,PC
+a17d0954-cc11-4f5a-946a-c85e167be61a,OnePlus Mobile,smart phone,OnePlus,true,PC
+1e119c63-eff0-424f-a148-7d059cae46c7,Huawei Mobile,smart phone,Huawei,true,PC
+cc1bb97c-3883-44e7-b490-6e4d59ac0da5,HTC Mobile,smart phone,HTC,true,PC
+1d560b2f-8638-47e3-bfd8-11a9a1ea1d41,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+b70f15c8-2f55-4534-a278-2e8432b96d18,Nokia Mobile,smart phone,Nokia,true,PC
+d601caa6-17ef-4bbd-a674-ea951555f707,Sony  Mobile,smart phone,Sony,true,PC
+98508f97-7267-411c-bb46-9e15c4e329d4,LG Mobile,smart phone,LG,true,PC
+4265f441-5c0b-4d34-95d5-9ccebc230243,Motorola Mobile,smart phone,Motorola,true,PC
+06924e50-59dc-4dac-ac83-1ec0d2db2b91,oppo Mobile,smart phone,oppo,true,PC
+763a9508-b349-4bbf-9acc-45e4604132b5,Apple Mobile,smart phone,Apple,true,PC
+7c754b40-937e-49fc-8cf6-0d5546dd250d,OnePlus Mobile,smart phone,OnePlus,true,PC
+d0d6465c-2794-4cdc-b691-db1e7a1bff03,Huawei Mobile,smart phone,Huawei,true,PC
+710ccc65-cc78-4e8f-85fb-f4ab72a4db50,HTC Mobile,smart phone,HTC,true,PC
+1e93ed43-07d2-4f96-b22b-b912bef7fda8,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+3379de8c-3a66-484d-92e5-cdbfa852f04c,Nokia Mobile,smart phone,Nokia,true,PC
+e086780d-b5c0-45c2-b310-fc5d3f6b5105,Sony  Mobile,smart phone,Sony,true,PC
+e17095cb-f68e-453d-a8f1-02339772df40,LG Mobile,smart phone,LG,true,PC
+6c9cf1a6-a785-4802-a19b-bcb5c6ff573e,Motorola Mobile,smart phone,Motorola,true,PC
+b5e352dd-bc23-4ce5-bcfe-f35dd4080ef4,oppo Mobile,smart phone,oppo,true,PC
+cd143167-c297-483a-ad82-7e893db778e0,Apple Mobile,smart phone,Apple,true,PC
+e8c6d0ec-6a50-4969-a994-d0d05d4ee201,OnePlus Mobile,smart phone,OnePlus,true,PC
+e0860689-5686-46e9-bec4-45ef12d65c8a,Huawei Mobile,smart phone,Huawei,true,PC
+36cb8d8f-e782-458c-a46f-86c276672bd3,HTC Mobile,smart phone,HTC,true,PC
+096e1182-1890-4713-8e84-dd91b66a17be,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+a8e2825a-02a5-460d-962c-7fba25b55fe8,Nokia Mobile,smart phone,Nokia,true,PC
+b833fb2e-ab44-4185-b783-8e5cbfb75dbc,Sony  Mobile,smart phone,Sony,true,PC
+0aeb1839-7714-4a43-88a5-4f0778ebac8c,LG Mobile,smart phone,LG,true,PC
+a72e7292-cfee-4f10-b7ad-eb12bdd64b40,Motorola Mobile,smart phone,Motorola,true,PC
+81d8350e-9520-45f8-b249-45fa884902d7,oppo Mobile,smart phone,oppo,true,PC
+90104d53-43cf-4220-92c1-4d41a96b9725,Apple Mobile,smart phone,Apple,true,PC
+c2e3aac3-b76c-41e5-9e10-35b418241328,OnePlus Mobile,smart phone,OnePlus,true,PC
+1502f3d1-14d3-4ffe-8595-e47e3dcb852d,Huawei Mobile,smart phone,Huawei,true,PC
+9d707385-128c-42b2-a3ef-d991be0891fe,HTC Mobile,smart phone,HTC,true,PC
+3fa959e5-7dd7-4c6f-b496-0893e0ea8a1d,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+f314ae4e-14f8-4b3f-bd6d-e7975ea048a3,Nokia Mobile,smart phone,Nokia,true,PC
+47868084-cf43-43c6-b74f-5fe9fa30fbb7,Sony  Mobile,smart phone,Sony,true,PC
+df606641-aabc-4619-9000-7b7732d07856,LG Mobile,smart phone,LG,true,PC
+d44622cf-1b0d-46b9-be88-852ce6642c96,Motorola Mobile,smart phone,Motorola,true,PC
+4e430088-fa34-4a62-b008-30f9ec68b674,oppo Mobile,smart phone,oppo,true,PC
+1e342679-1534-4a4b-a7bd-802070b1a8e9,Apple Mobile,smart phone,Apple,true,PC
+b93fd088-23ca-4ae2-82ad-87262cbbcb9d,OnePlus Mobile,smart phone,OnePlus,true,PC
+34bd8688-438b-45ad-94e0-a2be68ff8a5c,Huawei Mobile,smart phone,Huawei,true,PC
+4fee1e32-abc3-4c16-96d7-47c1a73c9c56,HTC Mobile,smart phone,HTC,true,PC
+e1063de4-27f7-4f83-a990-f8abe8b78f65,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+9a9f2417-8a49-43c2-a19c-13de69d69f86,Nokia Mobile,smart phone,Nokia,true,PC
+ba53f146-54d9-45d3-bf00-8307ac580d49,Sony  Mobile,smart phone,Sony,true,PC
+2203782b-c3d9-47c5-927b-c96785d1805b,LG Mobile,smart phone,LG,true,PC
+a7c96845-7b08-47cf-bb46-7ae7b82f0a65,Motorola Mobile,smart phone,Motorola,true,PC
+56d66ab3-4abd-4e09-91a0-433ce8717f06,oppo Mobile,smart phone,oppo,true,PC
+1d7a09f9-3013-4660-8ea8-f3a1f9b55106,Apple Mobile,smart phone,Apple,true,PC
+de313a15-741a-4aea-8928-4036ef1b7ddc,OnePlus Mobile,smart phone,OnePlus,true,PC
+e082ccfa-b3ea-4ab7-a5f7-bff14d520df6,Huawei Mobile,smart phone,Huawei,true,PC
+2aa7b310-25ad-4409-8ac6-f98a01884457,HTC Mobile,smart phone,HTC,true,PC
+2ec24afa-f2ea-4369-9341-31480d17d2f2,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+3ae93e60-4ff1-453b-9876-507250f4b3eb,Nokia Mobile,smart phone,Nokia,true,PC
+912ea206-2935-43e8-b9ff-242218fa0cf9,Sony  Mobile,smart phone,Sony,true,PC
+583ce0ef-4e64-43af-bf64-3ec79ae867fb,LG Mobile,smart phone,LG,true,PC
+9ba2c0c0-3aa3-4a72-b07f-1c1e6fe32339,Motorola Mobile,smart phone,Motorola,true,PC
+e562330d-7f92-46c9-b0e4-e2777edb9e3c,oppo Mobile,smart phone,oppo,true,PC
+14a1daae-3002-4e0a-a930-cef475c2ac5f,Apple Mobile,smart phone,Apple,true,PC
+ace76409-c19f-425d-a5f3-424a7f919069,OnePlus Mobile,smart phone,OnePlus,true,PC
+6cdf7f3a-76d9-400e-b204-575d8d12ff6e,Huawei Mobile,smart phone,Huawei,true,PC
+edf5faa5-ec57-4931-aa8c-bb27985f319f,HTC Mobile,smart phone,HTC,true,PC
+3216d36c-efd8-4cc1-a54d-52009142c901,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+36e46ed3-7be1-4600-b599-e46f2da3a83c,Nokia Mobile,smart phone,Nokia,true,PC
+96ad9ce9-7b71-4fed-9cb4-022ae30fbad2,Sony  Mobile,smart phone,Sony,true,PC
+7848ae37-7151-4945-a556-ee43c57681e6,LG Mobile,smart phone,LG,true,PC
+98d0b2f4-5174-4f37-bfd9-3879316a8352,Motorola Mobile,smart phone,Motorola,true,PC
+519eb88c-4051-4aa2-8248-f60cc9b10add,oppo Mobile,smart phone,oppo,true,PC
+7afa2222-84c6-4860-aeea-a457212f80e4,Apple Mobile,smart phone,Apple,true,PC
+accb7a04-43fe-49ab-a627-f4134507ca41,OnePlus Mobile,smart phone,OnePlus,true,PC
+e2c1d10f-e220-4a3a-aca6-023a21f59d5c,Huawei Mobile,smart phone,Huawei,true,PC
+bd03b866-037b-44a9-856b-438f8c2e2979,HTC Mobile,smart phone,HTC,true,PC
+fcdaf88d-6533-460f-a108-fae38be7e3b2,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+26718711-d378-4fce-a6a7-44795c84618a,Nokia Mobile,smart phone,Nokia,true,PC
+91f4ae41-b23d-472d-ac18-d8a347a4094e,Sony  Mobile,smart phone,Sony,true,PC
+6c3803f3-9594-4bb8-8693-a2c1d2ae8828,LG Mobile,smart phone,LG,true,PC
+2e891df5-477e-4a8a-a100-8a935368cce3,Motorola Mobile,smart phone,Motorola,true,PC
+2ae5813f-6d42-4cf2-a2bd-3e66e717ba78,oppo Mobile,smart phone,oppo,true,PC
+2d4f0d6f-828d-4c29-b988-e058f09b9e80,Apple Mobile,smart phone,Apple,true,PC
+2d71707b-3f9a-475b-b936-c87b1f12c044,OnePlus Mobile,smart phone,OnePlus,true,PC
+1e32bb74-efe3-497f-a7f8-cce205cf6aee,Huawei Mobile,smart phone,Huawei,true,PC
+7e181add-424b-4548-b4c3-dd46a9d6fab0,HTC Mobile,smart phone,HTC,true,PC
+cd9ff701-755b-4d96-8824-44fea2a2b5ab,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+2fa22ee2-d352-4728-945e-d11ead4f3cff,Nokia Mobile,smart phone,Nokia,true,PC
+15847031-c64b-48db-ac25-25b95b637b54,Sony  Mobile,smart phone,Sony,true,PC
+44f87265-7042-466d-ab06-f41c08e2e5b9,LG Mobile,smart phone,LG,true,PC
+2b996b44-a4a8-4df2-947f-c23c2059b3f3,Motorola Mobile,smart phone,Motorola,true,PC
+0f875699-1ced-423a-8907-cc6c3415d7fa,oppo Mobile,smart phone,oppo,true,PC
+c99abc36-5f97-4a82-87c5-b8c00b8fc87d,Apple Mobile,smart phone,Apple,true,PC
+6751583f-8fb3-48e8-a231-596e654582b8,OnePlus Mobile,smart phone,OnePlus,true,PC
+688428fd-182b-4acc-b1a2-6156e09c7ad7,Huawei Mobile,smart phone,Huawei,true,PC
+e0ccb8aa-0382-46fa-89e5-e2783ba5f2a2,HTC Mobile,smart phone,HTC,true,PC
+138624e9-73fe-4c0a-9f44-4c86b891af12,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+350ba4ff-6456-4778-a42c-a37906616da0,Nokia Mobile,smart phone,Nokia,true,PC
+d05446fb-e248-417e-82ea-83c8b234d96f,Sony  Mobile,smart phone,Sony,true,PC
+7bbcf3fd-08d1-4935-9fb8-4d78648b1aff,LG Mobile,smart phone,LG,true,PC
+4ff7d64b-81c2-4c48-bf49-ed160ed19a05,Motorola Mobile,smart phone,Motorola,true,PC
+777f31ca-cf31-44b6-90a2-a64160f7f02d,oppo Mobile,smart phone,oppo,true,PC
+c4219b27-18c9-4e96-bb59-dbcf947a403f,Apple Mobile,smart phone,Apple,true,PC
+1ade583c-059d-4bce-9c53-9472c3301f65,OnePlus Mobile,smart phone,OnePlus,true,PC
+b3d2be18-6ec5-4455-bc09-62e1eb15dbb9,Huawei Mobile,smart phone,Huawei,true,PC
+0d23e38c-d3d8-49a2-817c-cded9f882b23,HTC Mobile,smart phone,HTC,true,PC
+91138d00-18c0-450c-95c3-6a6f7a5eb43f,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+7f3a5efe-76c1-44e0-aca9-82816607fcd3,Nokia Mobile,smart phone,Nokia,true,PC
+8148dd74-19fa-4f88-a047-90179cddf4e9,Sony  Mobile,smart phone,Sony,true,PC
+4dd694f8-2b69-4d4b-920a-91ad778168b5,LG Mobile,smart phone,LG,true,PC
+b4a41c80-8486-47cd-a0b4-1ce7fa940064,Motorola Mobile,smart phone,Motorola,true,PC
+63013ace-b835-4e0f-ac45-89ccc5f84805,oppo Mobile,smart phone,oppo,true,PC
+002033b3-92fe-4c29-8799-572d53be6141,Apple Mobile,smart phone,Apple,true,PC
+c7b13167-6cbb-48f0-9464-b3042dbd708c,OnePlus Mobile,smart phone,OnePlus,true,PC
+1e47d9bb-cc77-4f0a-a6e0-ff49d7d0f23d,Huawei Mobile,smart phone,Huawei,true,PC
+9016ca82-03ba-48f4-8300-88a8d5110586,HTC Mobile,smart phone,HTC,true,PC
+20ac4f48-ab80-497f-aa3d-639ee3d367ec,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+c8296196-6981-4de3-a51a-4ff8a7b3b1cd,Nokia Mobile,smart phone,Nokia,true,PC
+cbd8eced-c625-4489-91c4-5fb02a342739,Sony  Mobile,smart phone,Sony,true,PC
+eece3d31-58ab-4fbf-a36e-02e347e8503b,LG Mobile,smart phone,LG,true,PC
+31f8d070-dcdb-42dd-8f59-c1c196e8d0a2,Motorola Mobile,smart phone,Motorola,true,PC
+7e079c44-91db-4e55-8efa-5aad1944cc64,oppo Mobile,smart phone,oppo,true,PC
+bf33899b-868e-49cb-9b3d-80a527796dc3,Apple Mobile,smart phone,Apple,true,PC
+f8570715-8560-467c-a7e9-c09e2168d429,OnePlus Mobile,smart phone,OnePlus,true,PC
+ffe3384c-6472-42f9-875e-db9c56edc9a8,Huawei Mobile,smart phone,Huawei,true,PC
+4054d4d3-4e35-499b-ab02-52e23274dc03,HTC Mobile,smart phone,HTC,true,PC
+25170abc-8e04-4024-b705-e22fab2b1d7b,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+d671c96d-5e11-4e94-8a3c-44eb7de489c4,Nokia Mobile,smart phone,Nokia,true,PC
+03157ebe-e5e0-458b-8c09-f4e449f94053,Sony  Mobile,smart phone,Sony,true,PC
+67ac5aca-cc5b-40e0-9c55-830cbf4dbbcb,LG Mobile,smart phone,LG,true,PC
+12e928bb-96fa-4960-847b-cafc84da7dda,Motorola Mobile,smart phone,Motorola,true,PC
+476882c2-4b38-486c-9085-61b64fdfd5a4,oppo Mobile,smart phone,oppo,true,PC
+112c4424-bd18-4903-81f3-5b0bd55b5cb1,Apple Mobile,smart phone,Apple,true,PC
+1be82d92-ac86-4871-b479-e8f2e2f86652,OnePlus Mobile,smart phone,OnePlus,true,PC
+164fad1c-e343-490f-9802-767521df827e,Huawei Mobile,smart phone,Huawei,true,PC
+dde033d2-0171-4ee8-8f5e-ebabf52e8fb3,HTC Mobile,smart phone,HTC,true,PC
+d5befd28-431f-4103-8d01-123240e1e22d,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+3bacc557-55e3-47a3-b6ff-fb442e32f536,Nokia Mobile,smart phone,Nokia,true,PC
+dd97dc2a-9cda-4135-ac64-a150bc822fc2,Sony  Mobile,smart phone,Sony,true,PC
+a01de3f8-e9df-44df-897c-a6c1eac40ed7,LG Mobile,smart phone,LG,true,PC
+a35f10fb-6aec-4097-8865-8aadd9d70d1b,Motorola Mobile,smart phone,Motorola,true,PC
+45601f6b-5b49-4c21-b5af-ed98048b7b59,oppo Mobile,smart phone,oppo,true,PC
+046a70db-7215-47f6-b266-4cae4ddbec9d,Apple Mobile,smart phone,Apple,true,PC
+405f0858-37d3-4443-9527-b0db3ad0aad4,OnePlus Mobile,smart phone,OnePlus,true,PC
+90914d81-855f-4ee2-b592-f93ffa5172d5,Huawei Mobile,smart phone,Huawei,true,PC
+a19a255c-d212-4328-a854-9a46e5f1e152,HTC Mobile,smart phone,HTC,true,PC
+bad66722-76a4-4aa3-9f8f-988e60c986f4,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+ac0d99a0-a4cf-4259-b004-508f16628141,Nokia Mobile,smart phone,Nokia,true,PC
+6d05082e-9413-4b89-b8f1-bf4f163655e8,Sony  Mobile,smart phone,Sony,true,PC
+f181ba2b-5b3d-4d77-8632-5fc3d1e18ff6,LG Mobile,smart phone,LG,true,PC
+1e1d6e42-d9dd-4b4e-b934-2bce331d3ff4,Motorola Mobile,smart phone,Motorola,true,PC
+a1980883-c0c1-4427-84d2-082830b5bbe7,oppo Mobile,smart phone,oppo,true,PC
+4d45dc6b-5ea5-41d6-9892-83d5b2c3be7e,Apple Mobile,smart phone,Apple,true,PC
+33040db9-7fe8-4510-a73a-b4672839395a,OnePlus Mobile,smart phone,OnePlus,true,PC
+406a01a0-f471-4ada-8813-39cf65959e01,Huawei Mobile,smart phone,Huawei,true,PC
+3ef66668-cf5c-4aef-80db-2a2ea9f7080b,HTC Mobile,smart phone,HTC,true,PC
+4fc1aa35-6ccb-4876-be1f-90af9edd7e3e,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+cfa5a7b5-4bdd-47ed-97ce-884066453dbd,Nokia Mobile,smart phone,Nokia,true,PC
+145bd692-3b08-4593-9e7a-a772afa4d8c2,Sony  Mobile,smart phone,Sony,true,PC
+9a139f99-79ca-410d-91e5-30b7dc5537c3,LG Mobile,smart phone,LG,true,PC
+71da03d1-9e5a-4045-8214-82757e14ffa9,Motorola Mobile,smart phone,Motorola,true,PC
+ce1d5309-332c-44d5-8746-e5bf17d5ce11,oppo Mobile,smart phone,oppo,true,PC
+46fe0d11-0795-4adf-b9d1-34fa9dba29ac,Apple Mobile,smart phone,Apple,true,PC
+ad45f64f-53b4-4769-ac99-aa40f785d057,OnePlus Mobile,smart phone,OnePlus,true,PC
+5ca362b6-ad42-4f86-8066-9d7273f43b0b,Huawei Mobile,smart phone,Huawei,true,PC
+e75e3a91-d417-47a4-84a2-dd2253382b8a,HTC Mobile,smart phone,HTC,true,PC
+522f6963-31fa-4d22-8a25-3449abb4c7b4,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+0d8bef24-4751-445b-afec-479d4d717998,Nokia Mobile,smart phone,Nokia,true,PC
+4f683569-30bf-4f86-823c-3b4b0e477ddd,Sony  Mobile,smart phone,Sony,true,PC
+a36c78ed-2b36-422d-9334-05524e3a62b6,LG Mobile,smart phone,LG,true,PC
+ed63a1ee-4bc9-4bee-8a19-24f830a8b630,Motorola Mobile,smart phone,Motorola,true,PC
+3d25acbd-eacd-4a57-96cc-90b1208d5f3c,oppo Mobile,smart phone,oppo,true,PC
+ba10c56c-2f9c-4014-ba0a-5c27199a8d74,Apple Mobile,smart phone,Apple,true,PC
+c8d99fe9-7c50-47af-9720-11423636b70a,OnePlus Mobile,smart phone,OnePlus,true,PC
+56aaa721-18bb-4d48-b4a7-6fee00559e80,Huawei Mobile,smart phone,Huawei,true,PC
+faa89e0a-078b-4b4e-8c1b-60c89fb8099e,HTC Mobile,smart phone,HTC,true,PC
+37ff7d68-a2ff-461f-8229-8a8dfe4dafb7,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+f37a145f-8a3e-4a53-8c48-e1c5327573a3,Nokia Mobile,smart phone,Nokia,true,PC
+13cb14df-342e-481c-bcfb-9fca8ea6bda4,Sony  Mobile,smart phone,Sony,true,PC
+3c4011ab-3548-41ce-a500-2432c9d11097,LG Mobile,smart phone,LG,true,PC
+a9c99aab-7849-401c-aefa-97ecd60cc6fd,Motorola Mobile,smart phone,Motorola,true,PC
+17575a26-6bbd-40a0-8cba-79b12e6ce56c,oppo Mobile,smart phone,oppo,true,PC
+bdb2d6c0-dfe6-4cd1-813c-928ed17f5bc6,Apple Mobile,smart phone,Apple,true,PC
+b078d38b-4332-48db-8403-2cc681ffba48,OnePlus Mobile,smart phone,OnePlus,true,PC
+c8cfcb77-1c66-4305-a465-517f76ea165d,Huawei Mobile,smart phone,Huawei,true,PC
+75637936-66da-401e-a60d-c4b609a29551,HTC Mobile,smart phone,HTC,true,PC
+d02a7af3-deca-42b1-8d3f-e9566179abf0,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+4d11cae7-8c32-4cff-8e37-17bcf201b54d,Nokia Mobile,smart phone,Nokia,true,PC
+25c6e824-3ac3-449f-8449-cfd76d7cb877,Sony  Mobile,smart phone,Sony,true,PC
+6788e0fe-a1a6-4f77-bf76-556730f140ce,LG Mobile,smart phone,LG,true,PC
+3472684b-d47e-40eb-b9e0-55de913247fb,Motorola Mobile,smart phone,Motorola,true,PC
+4046e820-97bc-49e3-a5ad-ea0ba01f21bb,oppo Mobile,smart phone,oppo,true,PC
+11cafa8b-d310-4b37-b1cc-b17d2ab42a84,Apple Mobile,smart phone,Apple,true,PC
+cc559ff6-26da-4e4f-9c83-e20a41f8df52,OnePlus Mobile,smart phone,OnePlus,true,PC
+53fb71b1-a957-40c0-ba7b-f472610bff33,Huawei Mobile,smart phone,Huawei,true,PC
+a0cf4871-3479-44a1-84f4-7d032c03ea5d,HTC Mobile,smart phone,HTC,true,PC
+b488695d-17fe-4ba2-af17-3f26893b5d6a,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+87153825-6075-4c6d-8436-d88adf737666,Nokia Mobile,smart phone,Nokia,true,PC
+f13c37ce-9220-4d3c-a54b-272933f27d41,Sony  Mobile,smart phone,Sony,true,PC
+62aec45e-2b13-4c27-bb07-7c71f24248ee,LG Mobile,smart phone,LG,true,PC
+719819c7-48a6-4d6f-9bcf-0ce5ed242c06,Motorola Mobile,smart phone,Motorola,true,PC
+54219c65-9e4b-4474-9f20-8e6263c78570,oppo Mobile,smart phone,oppo,true,PC
+34531069-9751-4f00-89dc-3398587b3da5,Apple Mobile,smart phone,Apple,true,PC
+e1956da7-99a8-4e1a-9b15-01e337e2e7e3,OnePlus Mobile,smart phone,OnePlus,true,PC
+0d1f28c7-ab08-4668-a70d-9b2916a631e8,Huawei Mobile,smart phone,Huawei,true,PC
+feea15fa-32ab-47a2-b3ac-f30aae8fe54d,HTC Mobile,smart phone,HTC,true,PC
+e4c849ef-bf43-42c4-8521-57c8b188316a,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+34cf7f60-41d8-4ad7-8691-773cf326dd65,Nokia Mobile,smart phone,Nokia,true,PC
+6351cc68-9d46-4084-be4c-f1489bddc8e7,Sony  Mobile,smart phone,Sony,true,PC
+9bef607b-f102-420c-bd22-9b4bdbd1f529,LG Mobile,smart phone,LG,true,PC
+1d159f4a-6142-4b29-8ea6-55896b86982c,Motorola Mobile,smart phone,Motorola,true,PC
+e99f4c76-39e4-4fa6-a6b6-9ee16fa2905d,oppo Mobile,smart phone,oppo,true,PC
+36a6a2ae-35fb-46e2-8910-7d8baca4b24d,Apple Mobile,smart phone,Apple,true,PC
+e54a1af9-d8d0-4e6d-ac4b-2c82877e9ae7,OnePlus Mobile,smart phone,OnePlus,true,PC
+64a939bd-5013-4308-ba87-e1389d69de2c,Huawei Mobile,smart phone,Huawei,true,PC
+e4ff3582-b595-43a1-9de7-cb76bfc128e5,HTC Mobile,smart phone,HTC,true,PC
+13dd36da-8396-412f-b61f-252e9ae123ec,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+3c82d4d5-1779-43cf-9ecc-afc0dee31510,Nokia Mobile,smart phone,Nokia,true,PC
+308e83c2-9591-4bdd-8f44-75d8e5174ed6,Sony  Mobile,smart phone,Sony,true,PC
+032ff831-2b79-464c-9fd3-a0e944d76004,LG Mobile,smart phone,LG,true,PC
+78fcfde6-ad49-477b-bfb0-edcbcec18c7c,Motorola Mobile,smart phone,Motorola,true,PC
+3c2035b3-bf35-4c48-a069-c75b95e2a934,oppo Mobile,smart phone,oppo,true,PC
+a07e652c-2228-405a-97b2-bff88faf9e23,Apple Mobile,smart phone,Apple,true,PC
+5481a66a-ef9e-463e-819f-18bb8a295edf,OnePlus Mobile,smart phone,OnePlus,true,PC
+9fa861b7-3bf4-45f7-96b5-0e802b8a54cf,Huawei Mobile,smart phone,Huawei,true,PC
+62c4e48a-1080-4000-aee8-d8499cce29a8,HTC Mobile,smart phone,HTC,true,PC
+9e493e0a-bd4e-4d67-970a-c5cdc67ce1c7,Samsung Galaxy Mobile,smart phone,Samsung Galaxy,true,PC
+b738f74c-6af3-4cfe-99a8-b3cdb50e6e90,Nokia Mobile,smart phone,Nokia,true,PC
+c563dc51-c91b-44c1-80e3-841ce7d3b62c,Sony  Mobile,smart phone,Sony,true,PC
+d1e2ae2d-9e50-4d4a-a672-6412ae00205a,LG Mobile,smart phone,LG,true,PC
+74188f5b-877c-4500-b5ee-7fd7ea31baad,Motorola Mobile,smart phone,Motorola,true,PC
+23fa992e-97ae-442f-b906-5f41d6bc8a67,oppo Mobile,smart phone,oppo,true,PC
+23413cee-4dd2-4ae5-9226-86d49cf1bea0,Apple Mobile,smart phone,Apple,true,PC
+a059045b-35d6-4f4a-bbb2-181076874b36,OnePlus Mobile,smart phone,OnePlus,true,PC
+9d46fd7e-e915-4870-b54e-144abe34f5ea,Huawei Mobile,smart phone,Huawei,true,PC
+d9d7284c-1281-4855-8641-f7ccf3aa8a5c,HTC Mobile,smart phone,HTC,true,PC
